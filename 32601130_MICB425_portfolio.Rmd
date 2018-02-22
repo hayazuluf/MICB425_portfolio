@@ -1,0 +1,12 @@
+---
+title: "MICB 425 portfolio"
+author: "Haya Abuzuluf 32601130"
+date: "version `r format(Sys.time(), '%B %d, %Y')`"
+output: html_document
+  toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

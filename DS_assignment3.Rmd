@@ -1,0 +1,59 @@
+---
+title: "Pretty_html"
+author: "Haya Abuzuluf 32601130"
+date: 'version January 18, 2018'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+* [R Markdown PDF Challenge] [R Markdown PDF Challenge ]
+    + [Challenge Goals] [Challenge Goals]
+        + [Here's a header!] [Here's a header!]  
+        + [Table Time]  [Table Time]
+
+# R Markdown PDF Challenge 
+
+The following assignment is an exercise for the reproduction of this .html document using the RStudio and RMarkdown tools we’ve shown you in class. Hopefully by the end of this, you won’t feel at all the way this poor PhD student does. We’re here to help, and when it comes to R, the internet is a really valuable resource. This open-source program has all kinds of tutorials online.  
+
+![](../phd011718s.gif)  
+http://phdcomics.com/ Comic posted 1-17-2018  
+
+## Challenge Goals  
+
+The goal of this R Markdown html challenge is to give you an opportunity to play with a bunch of different RMarkdown formatting. Consider it a chance to flex your RMarkdown muscles. Your goal is to write your own RMarkdown that rebuilds this html document as close to the original as possible. So, yes, this means you get to copy my irreverant tone exactly in your own Markdowns. It’s a little window into my psyche. Enjoy =)  
+
+__hint: go to the [PhD Comics website](www.phdcomics.com) to see if you can find the image above__  
+_If you can’t find that exact image, just find a comparable image from the PhD Comics website and include it in your markdown_  
+
+### Here's a header!  
+
+Let’s be honest, this header is a little arbitrary. But show me that you can reproduce headers with different levels please. This is a level 3 header, for your reference (you can most easily tell this from the table of contents)
+
+#### Another header, now with maths  
+
+Perhaps you’re already really confused by the whole markdown thing. Maybe you’re so confused that you’ve forgotton how to add. Never fear! A ~~calculator~~ R is here:
+
+```{r}
+1231521+12341556280987
+```
+
+```{r echo=FALSE}
+## [1] 1.234156e+13
+```
+
+### Table Time
+
+Or maybe, after you’ve added those numbers, you feel like it’s about time for a table!  
+I’m going to leave all the guts of the coding here so you can see how libraries (R packages) are loaded into R (more on that later). It’s not terribly pretty, but it hints at how R works and how you will use it in the future. The summary function used below is a nice data exploration function that you may use in the ^future^.
+
+```{r}
+library(knitr)
+kable(summary(cars),caption="I made this table with kable in the knitr package library")
+```
+
+And now you’ve almost finished your first RMarkdown! Feeling excited? We are! In fact, we’re so excited that maybe we need a big finale eh? Here’s ours! Include a fun gif of your choice!
+
+![](../science.gif)
+
