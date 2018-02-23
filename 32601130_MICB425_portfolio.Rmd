@@ -62,12 +62,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Portfolio repo setup
 Detail the code you used to create, initialize, and push your portfolio repo to GitHub. This will be helpful as you will need to repeat many of these steps to update your porfolio throughout the course.
 
-`git init`  
+
 `git add .`  
-`git commit -m "First commit"`  
-`git remote add origin https://remote_repository_URL`  
-`git remote -v`  
-`git push -u origin master`  
+`git commit -m "type message"`  
+`git push`  
 
 ### RMarkdown pretty html challenge
 Paste your code from the in-class activity of recreating the example html.
@@ -135,15 +133,33 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
 #### General questions
 * What were the main questions being asked?  
 
+Number of prokaryotes?  
+How do prokaryotes affect the global carbon cycle?  
+Genetic diversity and number of mutations?  
+
+
 * What were the primary methodological approaches used?  
+
+Referenced papers and estimated numbers based on assumptions
 
 * Summarize the main results or findings.  
 
+Total carbon of prokaryotes is 60-100% of carbon.  
+Cellular production is highest.  
+More mutations in oceans than other populations (high turnover time, more mutations).  
+
+
 * Do new questions arise from the results?  
+
+Turnover time at subsurface?  
+How is the bacterial population vs archaea population (distinguish between the two)?  
+Species definition of prokaryotes vs eukaryotes  
+
 
 * Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
 
-
+Not enough background information, they just jump into assumptions and calculations.  
+Tables and figures are not summarized or explained in results.  
 
 ### Problem set 01
 #### Learning objectives: 
@@ -170,10 +186,77 @@ Describe the numerical abundance of microbial life in relation to the ecology an
 
 * Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt?  
 
-* What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text? 
+* What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text?  
+
+
+### Evidence Worksheet_02 “Life and the Evolution of Earth’s Atmosphere”
+#### Learning objectives: 
+Comment on the emergence of microbial life and the evolution of Earth systems
+    
+    
+* Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
+
+    + 4.6 billion years ago  
+    
+    + 4.2 billion years ago  
+    
+    + 3.8 billion years ago  
+    
+    + 3.75 billion years ago  
+    
+    + 3.5 billion years ago  
+    
+    + 3.0 billion years ago  
+    
+    + 2.7 billion years ago  
+    
+    + 2.2 billion years ago  
+    
+    + 2.1 billion years ago
+    
+    + 1.3 billion years ago
+    
+    + 550,000 years ago
+    
+    + 200,000 years ago
+
+
+* Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
+
+    + Hadean  
+    
+    + Archean  
+    
+    + Precambrian  
+    
+    + Proterozoic  
+    
+    + Phanerozoic  
+    
 
 
 
+
+
+
+
+### Problem set_02 “Microbial Engines”
+#### Learning objectives: 
+Discuss the role of microbial diversity and formation of coupled metabolism in driving global biogeochemical cycles.
+
+#### Specific Questions:
+* What are the primary geophysical and biogeochemical processes that create and sustain conditions for life on Earth? How do abiotic versus biotic processes vary with respect to matter and energy transformation and how are they interconnected?  
+
+* Why is Earth’s redox state considered an emergent property?
+  
+
+* How do reversible electron transfer reactions give rise to element and nutrient cycles at different ecological scales? What strategies do microbes use to overcome thermodynamic barriers to reversible electron flow?  
+
+* Using information provided in the text, describe how the nitrogen cycle partitions between different redox “niches” and microbial groups. Is there a relationship between the nitrogen cycle and climate change?   
+
+* What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?  
+
+* On what basis do the authors consider microbes the guardians of metabolism?  
 
 
 
@@ -185,4 +268,36 @@ Describe the numerical abundance of microbial life in relation to the ecology an
 
 
 Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+
+
+# Module 02  
+
+## Data science Friday  
+
+## Remapping the body of the world
+
+
+### Evidence worksheet_03
+
+### Problem set_03 “Metagenomics: Genomic Analysis of Microbial Communities”  
+#### Learning objectives:   
+Specific emphasis should be placed on the process used to find the answer. Be as comprehensive as possible e.g. provide URLs for web sources, literature citations, etc.  
+*(Reminders for how to format links, etc in RMarkdown are in the RMarkdown Cheat Sheets)*
+
+#### Specific Questions:
+* How many prokaryotic divisions have been described and how many have no cultured representatives (microbial dark matter)?
+  
+
+* How many metagenome sequencing projects are currently available in the public domain and what types of environments are they sourced from?
+  
+
+* What types of on-line resources are available for warehousing and/or analyzing environmental sequence information (provide names, URLS and applications)?  
+
+* What is the difference between phylogenetic and functional gene anchors and how can they be used in metagenome analysis?   
+
+* What is metagenomic sequence binning? What types of algorithmic approaches are used to produce sequence bins? What are some risks and opportunities associated with using sequence bins for metabolic reconstruction of uncultivated microorganisms?  
+
+* Is there an alternative to metagenomic shotgun sequencing that can be used to access the metabolic potential of uncultivated microorganisms? What are some risks and opportunities associated with this alternative?  
+
  
