@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The following assignment is an exercise for the reproduction of this .html document using the RStudio and RMarkdown tools we’ve shown you in class. Hopefully by the end of this, you won’t feel at all the way this poor PhD student does. We’re here to help, and when it comes to R, the internet is a really valuable resource. This open-source program has all kinds of tutorials online.  
 
-![](../phd011718s.gif)  
+![](phd011718s.gif)  
 http://phdcomics.com/ Comic posted 1-17-2018  
 
 ## Challenge Goals  
@@ -55,5 +55,5 @@ kable(summary(cars),caption="I made this table with kable in the knitr package l
 
 And now you’ve almost finished your first RMarkdown! Feeling excited? We are! In fact, we’re so excited that maybe we need a big finale eh? Here’s ours! Include a fun gif of your choice!
 
-![](../science.gif)
+![](science.gif)
 
