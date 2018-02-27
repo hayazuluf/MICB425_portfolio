@@ -50,6 +50,9 @@ plot_bar(physeq_percent, fill="Phylum") +
   geom_bar(aes(fill=Phylum), stat="identity") +
   facet_wrap(~Phylum, scales="free_y") +
   theme(legend.position="none")
-ggplot(metadata, fill="nutrient") +
-  geom_point(aes(fill=nutrient), stat="identity") +
-  facet_wrap(~nutrient)
+gather=gather(metadata, nutrients, uM, NH4_uM, NO2_uM, NO3_uM, O2_uM, PO4_uM, siO2_uM)
+library(tidyverse)
+gather=gather(metadata, nutrients, uM, NH4_uM, NO2_uM, NO3_uM, O2_uM, PO4_uM, SiO2_uM)
+ggplot(metadata, fill="uM") +
+  geom_point(aes(fill=uM), stat="identity") +
+  facet_wrap(~uM)
