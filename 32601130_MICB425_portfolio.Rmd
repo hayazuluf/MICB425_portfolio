@@ -133,33 +133,33 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
 #### General questions
 * What were the main questions being asked?  
 
-Number of prokaryotes?  
-How do prokaryotes affect the global carbon cycle?  
-Genetic diversity and number of mutations?  
+  +Number of prokaryotes?  
+  +How do prokaryotes affect the global carbon cycle?  
+  +Genetic diversity and number of mutations?  
 
 
 * What were the primary methodological approaches used?  
 
-Referenced papers and estimated numbers based on assumptions
+  +Referenced papers and estimated numbers based on assumptions
 
 * Summarize the main results or findings.  
 
-Total carbon of prokaryotes is 60-100% of carbon.  
-Cellular production is highest.  
-More mutations in oceans than other populations (high turnover time, more mutations).  
+  +Total carbon of prokaryotes is 60-100% of carbon.  
+  +Cellular production is highest.  
+  +More mutations in oceans than other populations (high turnover   time, more mutations).  
 
 
 * Do new questions arise from the results?  
 
-Turnover time at subsurface?  
-How is the bacterial population vs archaea population (distinguish between the two)?  
-Species definition of prokaryotes vs eukaryotes  
+  +Turnover time at subsurface?  
+  +How is the bacterial population vs archaea population (distinguish   between the two)?  
+  +Species definition of prokaryotes vs eukaryotes  
 
 
 * Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
 
-Not enough background information, they just jump into assumptions and calculations.  
-Tables and figures are not summarized or explained in results.  
+  + Not enough background information, they just jump into   assumptions and calculations.  
+  + Tables and figures are not summarized or explained in results.  
 
 ### Problem set 01
 #### Learning objectives: 
@@ -167,27 +167,87 @@ Describe the numerical abundance of microbial life in relation to the ecology an
 
 #### Specific questions:
 * What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.  
++ Acquatic = 1.181e+29  
++Soil = 2.556e+29  
++Subsurface = 3.8e+30  
+
+
 
 * What is the estimated prokaryotic cell abundance in the upper 200 m of the ocean and what fraction of this biomass is represented by marine cyanobacterium including Prochlorococcus? What is the significance of this ratio with respect to carbon cycling in the ocean and the atmospheric composition of the Earth?  
 
++The estimated prokaryotic abundance in the upper 200 m of the ocean is 3.6e+28, 8% of this biomass is represented by marine cyanobacterium including Prochlorococuus. Since they are autotrophs, they are the major players in driving one part of the carbon cycle by assimilating inorganic carbon into organic carbon through photosynthesis.
++4e+4 / 5e+5 * 100 = 8%
+
 * What is the difference between an autotroph, heterotroph, and a lithotroph based on information provided in the text?  
++Autotroph: organisms that produce complex carbons from simple inorganic substances such as carbon dioxide. “Self nourishing”, fix inorganic carbon (CO2) and make up the biomass.  
++Heterotroph: organism that ingests or absorbs organic carbon in order to be able to produce energy and synthesize compounds to maintain its life. Assimilate organic carbon.   
++Lithotroph: organisms that use inorganic substrate to obtain reducing equivalents for use in biosynthesis or energy conservation via aerobic or anaerobic respiration. Use inorganic substrates.  
 
 * Based on information provided in the text and your knowledge of geography what is the deepest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this depth?  
 
++At 4 km, the average temperature reaches 125 degree Celsius, which is close to the upper temperature limit for prokaryotic life. Terrestrial up to 4 km below, change in degree Celsius around 22C/km.  
+
+
 * Based on information provided in the text your knowledge of geography what is the highest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this height?  
 
++The atmosphere is the highest habitat (57-77 km) capable of supporting prokaryotic life. Some factors that can limit survival of airborne prokaryotes are nutrient availability, moisture (desiccant conditions) and UV radiation (Budny, 2017 p. 31)  
+
+Budny, JA. 2017. Book review: Aerobiology—The toxicology of airborne pathogens and toxins. Los Angeles, CA: SAGE Publications.10.1177/1091581816678191. 
+
 * Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?  
++20km atmosphere plus 4km subsurface equals 24km  
 
 * How was annual cellular production of prokaryotes described in Table 7 column four determined? (Provide an example of the calculation)  
++Calculate turnover time per year (/365)*population size  
++Population size times number of turnover per year gives number of cells per year  
++Marine heterotrophs= 3.6e+28 cells * 365 days /16 turnvers = 8.2e+29 cells/year  
+
++What drives turnover: phages to shape and modulate population. Interaction is a network. Viruses are modulators of metabolism at level of community and population, increasingly carry accessory metabolic genes, encoding genes that influence metabolic network in cells, therefore cells can be reprogrammed by viruses.  
+
 
 * What is the relationship between carbon content, carbon assimilation efficiency and turnover rates in the upper 200m of the ocean? Why does this vary with depth in the ocean and between terrestrial and marine habitats?  
 
++Carbon assimilation efficiency and carbon content determine turnover rates in the upper 200m of the ocean. The amount of net primary productivity required to sustain prokaryotic turnover is dependent on both C assimilation efficiency and total carbon content of the population, which then sets an upper limit on turnover rates. These vary between habitats because different assimilation efficiencies and total carbon content, as well as the amount of total net primary productivity each habitat zone consumes.  
+
+Carbon efficiency assumption of these heter or photosynthetic organisms is 20%, use 4 multiplier not 5? Why? 5 multiplier would bring to 100%.
+20fg of carbon/cell
+average about 20 =20e+-30 pg/cell
+need to now number of cells and total amount of carbon per cell
+
+3.6e+28 cells * 20e+-30 pg/cell= 0.72 pg C in marine hetero
+
+4*0.72 =2.88pg/year (a lot to be moving through the ocean to cellular biomass)
+
+51pg C/yr , 85% consumed =43 pgC
+43 pg C/yr / 8 8 pg/yr = 14/9 turnover/yr, convert into turnover in days =1 turnover every 24.5 days 
+
+
 * How were the frequency numbers for four simultaneous mutations in shared genes determined for marine heterotrophs and marine autotrophs given an average mutation rate of 4 x 10^-7^ per DNA replication? (Provide an example of the calculation with units. Hint: cell and generation cancel out)  
+
++4e+-7 mutations/generation
+(4e+-7)^4 = 2.56e+-26 mutations/generation
+3.6e+28 cells(standing population turning over 22.8 times per year)
+365/16 =22.8 turnover per year
+
+3.6e+28 *22.8 =8.2e+29 cells/year
+
+8.2 e+29 cells/year * 2.56e+-26 mutations/generation
+=2.1 *10^4 mutations/yr  convert to hours per mutation, 4 simultaneous mutations in the same gene occurs once every 0.4 hr (stated in the paper)
+
+2.1e+4/365/24 =2/4 mutation/hr
+½.4 mutation/hr =0.4 hr/mutation 
+
+point mutation not lateral gene transfer(insertion or deletion)  
+
 
 * Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt?  
 
+
+
 * What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text?  
 
++Prokaryote abundance creates an opportunity for frequent mutations and genetic material exchanges that allows adaptation of prokaryotes to different habitats. Adaptation to unique environments will eventually lead to divergence in metabolic potential and ultimately evolution and diversity. 
+Might need to make this more specific based on the equation above.  
 
 ### Evidence Worksheet_02 “Life and the Evolution of Earth’s Atmosphere”
 #### Learning objectives: 
@@ -245,19 +305,28 @@ Comment on the emergence of microbial life and the evolution of Earth systems
 Discuss the role of microbial diversity and formation of coupled metabolism in driving global biogeochemical cycles.
 
 #### Specific Questions:
-* What are the primary geophysical and biogeochemical processes that create and sustain conditions for life on Earth? How do abiotic versus biotic processes vary with respect to matter and energy transformation and how are they interconnected?  
+* What are the primary geophysical and biogeochemical processes that create and sustain conditions for life on Earth? How do abiotic versus biotic processes vary with respect to matter and energy transformation and how are they interconnected? 
+
++ Geophysical = techtonics and atmospheric processes continuosly supply substrates and remove products, creating geochemical cycles. They are abiotically driven acid-base reactions (no microorganisms involved). Ex. volcanoes and rock weathering.  
++Biogeochemical = biologically driven redox reactions that set lower limits on external energy required to sustain the cycles. 6 Major elements.
++Resupply of C, S, and P is dependent on tectonics. Acid base reactions provide protons used in redox reactions.  
 
 * Why is Earth’s redox state considered an emergent property?
   
-
++Emergent properties come from a collection of things and not a single entity. Redox reactions arise from microbial life and driven by photosynthesis. Genes form the basis of the pathways. Large entities driven through interactions among smaller or simpler entities such that the larger entities exhibit properties the smaller ones do not exhibit.  
 * How do reversible electron transfer reactions give rise to element and nutrient cycles at different ecological scales? What strategies do microbes use to overcome thermodynamic barriers to reversible electron flow?  
 
-* Using information provided in the text, describe how the nitrogen cycle partitions between different redox “niches” and microbial groups. Is there a relationship between the nitrogen cycle and climate change?   
++
 
+* Using information provided in the text, describe how the nitrogen cycle partitions between different redox “niches” and microbial groups. Is there a relationship between the nitrogen cycle and climate change?   
++ increase in carbon dioxide and organic matter
++reduction and oxidation reactions segregated in different organisms.  
 * What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?  
++Cycles have co-evolved and influence outcomes of each other.
++Metabolic pathways evolved to utilize available substrates produced as end products of other types of microbial metabolism. Ex. photosynthesis result of evolution of multiple metabolic pathways that lead to a cycle.
 
 * On what basis do the authors consider microbes the guardians of metabolism?  
-
++Horizontal gene transfer is responsible for conserving the genes neccesary for encoding the ezymes involved in the complex reactions necessary for metabolism.
 
 ### Writing assessment_01
 "Microbial life can easily live without us; we, however, cannot survive without the global catalysis and environmental transformations it provides".  
@@ -271,6 +340,29 @@ Knowledge gap in how microbes function: The relationship between microbial commu
 
 Humans will not be able to replace microbial functions without completely understanding their activity in climate change models. Microorganisms do not live in isolation in nature, but coexist in highly interactive communities known as consortia (8). They establish relationships that will have an effect on all interacting species and thus it is apparent that they function more as a coherent group that is able to occupy multiple ecological niches (8). Studying microbial consortia will aid in environmental protection or biodegradation and will offer a solution to reversing human activities which have overstepped several planetary boundaries (9). However, knowing some of the beneficial effects of microorganisms will not be sufficient to elucidate their function on a global scale. Stability of human life is highly dependent on the biogeochemical cycles which are determined by microbial processes.  Human-induced environmental changes may soon cause a sixth major extinction and so understanding microbial ecosystems will help predict the likelihood of major disasters (10).   
 In conclusion, I argue that humans will not be able to sustain life on this planet without the global catalysis and environmental transformations that microbes provide. Quality of life on this planet would become increasingly worse to humans, although microbial life would endure. My argument outlined the major role microbes play in atmospheric evolution, their waste management capabilities and the missing gaps in understanding microbial complexity and function. Future work should be aimed at further elucidating complex microbial communities in ecosystems and climate change interactions. Harnessing the power of microbes instead of working towards replacing them will prove to be more powerful at combating disastrous conditions.
+
+### Evidence worksheet_03 "The Anthropocene"
+#### Learning objectives:
+Evaluate human impacts on the ecology and biogeochemistry of Earth Systems
+#### Specific Questions:
+
+What were the main questions being asked?  
+What were the primary methodological approaches being used?  
+Summarize the main results or findings.  
+Do new questions arise from the results?  
+Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+
+
+
+As we discussed in class today, to complete evidence worksheet 3 please select one of the following papers to report on:
+
+1) Rockstrom, Nature_2009 .pdf,
+
+2) Science-2016-Waters-.pdf, or
+
+3) Canfield, Science_2010.pdf
+
+
 
 
 
@@ -289,7 +381,7 @@ Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Pr
 ## Remapping the body of the world
 
 
-### Evidence worksheet_03
+
 
 ### Problem set_03 “Metagenomics: Genomic Analysis of Microbial Communities”  
 #### Learning objectives:   
@@ -297,18 +389,78 @@ Specific emphasis should be placed on the process used to find the answer. Be as
 *(Reminders for how to format links, etc in RMarkdown are in the RMarkdown Cheat Sheets)*
 
 #### Specific Questions:
-* How many prokaryotic divisions have been described and how many have no cultured representatives (microbial dark matter)?
-  
+* How many prokaryotic phyla and candidate divisions have been described and how many have no cultured representatives (microbial dark matter)?  
+    + At least 89 bacterial and 20 archaeal phyla are recognized by small ribosomal RNA databases (1).  
+    + True phyla count is higher and could range up to 1,500 bacterial phyla (1). 
+    + As there are prokaryotes that live in the "shadow biosphere" (2).  
+    + Only 26 of the approximately 52 identifiable major phyla within the domain bacteria have culturable representatives (3).  
+    + Only information about that life comes from sequencing and so this number is increasing.  
+References:
+1) The bright side of microbial dark matter: lessons learned from the uncultivated majority (2016) 
+Authors: Lindsay Solden, Karen Llyod, Kelly Wrighton 
+2) Assessing the global phylum level diversity within the bacterial domain: A review
+Authors:
+3) The uncultured microbial majority.
 
 * How many metagenome sequencing projects are currently available in the public domain and what types of environments are they sourced from?
+  Shotgun Metagenomics (IMG/m, MG-RAGT, NCIB)
+  + Assembly - EULER
+  + Binning
+  + Annotation
+  + Analysis pipelines
+  
+  Major Gene Metagenomics
   
 
 * What types of on-line resources are available for warehousing and/or analyzing environmental sequence information (provide names, URLS and applications)?  
+  +
+
 
 * What is the difference between phylogenetic and functional gene anchors and how can they be used in metagenome analysis?   
+  +Is the process of grouping of sequences or sequence reads that come from a single genome.
+  +Types of algorithms:
+    + Align sequences to database
+    + Group to each other based on DNA characteristics: GC content, codon usage
+  + Risks and opportunities in binning:
+    +Incomplete coverage of genome sequence
+    +Contamination from different phyogeny (less than 5% ideally)
+
 
 * What is metagenomic sequence binning? What types of algorithmic approaches are used to produce sequence bins? What are some risks and opportunities associated with using sequence bins for metabolic reconstruction of uncultivated microorganisms?  
+ + Functional screens (biochemical)
+ + Third generation sequencing (nanopore)
+ + single cell sequencing 
+ +FISH probe
+
 
 * Is there an alternative to metagenomic shotgun sequencing that can be used to access the metabolic potential of uncultivated microorganisms? What are some risks and opportunities associated with this alternative?  
 
+  +Phylogenetic
+    +Vertical gene transfer
+    +carry phylogenetic information allowing tree reconstruction
+    +Tazonomic
+    +Ideally single copy
+    
+  +Functional
+    +More horizontal 
+    
+    
+### Evidence worksheet_04
+#### Learning objectives:
+Discuss the relationship between microbial community structure and metabolic diversity  
+Evaluate common methods for studying the diversity of microbial communities  
+Recognize basic design elements in metagenomic workflows  
+
+### Specific questions:
+
+What were the main questions being asked?  
+What were the primary methodological approaches being used?  
+Summarize the main results or findings.  
+Do new questions arise from the results?  
+Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?
+
+
+1) Martinez et al., PNAS 2007.pdf
+
+This classic paper describes functional metagenomic screening using E. coil as a heterologous host system for environmental gene expression targeting the bacteriorhodopsin gene. 
  
