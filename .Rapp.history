@@ -1,0 +1,3 @@
+load("/Users/hayazuluf/Documents/MICB425_portfolio/metadata.RData")
+load("/Users/hayazuluf/Documents/MICB425_portfolio/qiime2_phyloseq.RData")
+load("/Users/hayazuluf/Documents/MICB425_portfolio/mothur_phyloseq.RData")
