@@ -103,6 +103,17 @@ mothur %>%
 	labs(x = "Depth (m)", y = "Alpha Diversity Indicator Value", 
 			 colour = expression(paste("[O"[2], "] (", mu, "M)")))
 
+#fix code
+mothur %>% 
+  prune_taxa(taxa_sums(.) > 0, .) %>% 
+  plot_richness(x = "O2_uM", measures=c("Chao1", "InvSimpson")) +
+  geom_point(aes(colour = select(data.frame(mothur@sam_data), 
+                                 starts_with("Depth_m"))), na.rm = TRUE) +
+  scale_colour_distiller(palette = "RdYlGn") + # replace if using alt colours
+  labs(x = paste("[O"[2], "] (", mu, "M)"), y = "Alpha Diversity Indicator Value", 
+       colour = expression(("Depth (m)"))) 
+
+
 qiime2 %>% 
 	prune_taxa(taxa_sums(.) > 0, .) %>% 
 	plot_richness(x = "Depth_m", measures=c("Chao1", "InvSimpson")) +
@@ -188,7 +199,8 @@ ggplot(mothur_taxon, aes(x=O2_uM, y=TaxAbundance)) +
     scale_colour_distiller(palette = "RdYlGn") + # replace if using alt colours
     labs(x = expression(paste("[O"[2], "] (", mu, "M)")), y = "Tax Abundance", 
          colour = "Depth (m)") 
-  
+
+
 ggplot(qiime2_taxon, aes(x=O2_uM, y=TaxAbundance)) + 
   geom_point(aes(colour = select(data.frame(qiime2_taxon), 
                                  starts_with("Depth_m"))), na.rm = TRUE) +

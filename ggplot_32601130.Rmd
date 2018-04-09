@@ -1,17 +1,15 @@
 ---
-title: "MICB 425 portfolio- ggplot"
+title: "ggplot"
 author: "Haya Abuzuluf 32601130"
-date: "version `r format(Sys.time(), '%B %d, %Y')`"
-output:
-  html_document:
-    toc: true
+date: '2018-04-08'
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#load library
+#load library  
 
 ```{r}
 library(tidyverse)
@@ -20,88 +18,130 @@ biocLite("phyloseq")
 library(phyloseq)
 ```
 
-#read table
+#Read in a table.
+```{r}
+#read.table(file="Saanich.metadata.txt")
+#read.table(file="Saanich.metadata.txt", header=TRUE, row.names=1, sep="\t", na.strings="NAN")
+metadata = read.table(file="Saanich.metadata.txt", header=TRUE, row.names=1, sep="\t")
+#Read in a table.
+#read.table(file="Saanich.OTU.txt")
+metadata %>% 
+  select(O2_uM)
+metadata %>% 
+  select(matches("O2|oxygen"))
+metadata %>% 
+  filter(O2_uM == 0)
+metadata %>% 
+  filter(O2_uM == 0) %>% 
+  select(Depth_m)
+metadata %>% 
+  mutate(N2O_uM = N2O_nM/1000)
+metadata %>% 
+  transmute(N2O_uM = N2O_nM/1000)
+metadata %>% 
+  mutate(N2O_uM = N2O_nM/1000) %>% 
+  ggplot() + geom_point(aes(x=Depth_m, y=N2O_uM))
+
+```
+
+
+#read table  
 ```{r}
 load("phyloseq_object.RData")
 ```
-#graph metadata, plot depth by oxygen
+
+#graph metadata, plot depth by oxygen  
 ```{r}
 ggplot(metadata, aes(x=O2_uM, y=Depth_m))
 ```
-#use point plot
+#use point plot  
 ```{r}
 ggplot(metadata, aes(x=O2_uM, y=Depth_m)) +
   geom_point()
 ```
-#change color of dots to blue 
+
+#change color of dots to blue   
 ```{r}
 ggplot(metadata, aes(x=O2_uM, y=Depth_m, color="blue")) +
   geom_point()
 ```
-#change color within geom function
+
+#change color within geom function  
 ```{r}
 ggplot(metadata, aes(x=O2_uM, y=Depth_m)) +
   geom_point(color="blue")
 ```
-#change chape and size
+
+#change chape and size  
 ```{r}
 ggplot(metadata, aes(x=O2_uM, y=Depth_m, size=OxygenSBE_V)) +
   geom_point()
 ```
-#Exercise 1: Depth against PO4 concentration
+
+#Exercise 1: Depth against PO4 concentration  
 ```{r}
 ggplot(metadata, aes(x=PO4_uM, y=Depth_m)) +
   geom_point(shape=24) +
   geom_point(color="purple")
 ```
-#Exercise 2: using dplyr plot temperature in Fahrenheit against depth
-###plot in Celcius
+
+#Exercise 2: using dplyr plot temperature in Fahrenheit against depth  
+###plot in Celcius  
 ```{r}
 ggplot(metadata, aes(x=Temperature_C, y=Depth_m)) +
   geom_point() +
   geom_point(color="purple")
 ```
-###use dplyr function mutate to covert to Fahrenheit
+
+###use dplyr function mutate to covert to Fahrenheit  
 ```{r}
 metadata %>% 
   mutate(Temperature_F = Temperature_C*1.8+32) %>% 
   ggplot() + geom_point(aes(x=Temperature_F, y=Depth_m),color="purple")
 ```
-#ggplot with phyloseq
+
+#ggplot with phyloseq  
 ```{r}
 physeq
 ```
-#plot phylum level communities by depth by filling the fill
+
+#plot phylum level communities by depth by filling the fill  
 ```{r}
 plot_bar(physeq, fill="Phylum")
 ```
-#calculate percentage of total of each sample for each OTU
+
+#calculate percentage of total of each sample for each OTU  
 ```{r}
 physeq_percent = transform_sample_counts(physeq, function(x) 100 * x/sum(x))
 ```
-#plot the phyla percentage
+
+#plot the phyla percentage  
 ```{r}
 plot_bar(physeq_percent, fill="Phylum")
 ```
-#specify identity to remove black lines
+
+#specify identity to remove black lines  
 ```{r}
 plot_bar(physeq_percent, fill="Phylum") + 
   geom_bar(aes(fill=Phylum), stat="identity")
 ```
-#Exercise 3: bar plot
+
+#Exercise 3: bar plot  
 ```{r}
 plot_bar(physeq_percent, fill="Genus") + 
   geom_bar(aes(fill=Genus), stat="identity") +
   labs(x = "Sample Depth", y = "Percent relative abundance",
        title ="Genera from 10 to 200 m in Saanich Inlet")
 ```
-#Faceting: separates data into multiple panels to see patterns more clearly
+
+#Faceting: separates data into multiple panels to see patterns more clearly   
 ```{r}
 plot_bar(physeq_percent, fill="Phylum") +
   geom_bar(aes(fill=Phylum), stat="identity") +
   facet_wrap(~Phylum)
 ```
-#remove legend because each facet has a label
+
+#remove legend because each facet has a label  
 ```{r}
 plot_bar(physeq_percent, fill="Phylum") +
   geom_bar(aes(fill=Phylum), stat="identity") +
@@ -109,7 +149,8 @@ plot_bar(physeq_percent, fill="Phylum") +
   theme(legend.position="none")
 ```
 
-#Exercise 4: nutrient concentrations in uM for O2, PO4, SiO2, NO3 and NO2 by depth
+
+#Exercise 4: nutrient concentrations in uM for O2, PO4, SiO2, NO3 and NO2 by depth  
 ```{r}
 gather2= gather(metadata, nutrients, uM, NH4_uM, NO3_uM, O2_uM, PO4_uM, SiO2_uM, NO2_uM)
 
