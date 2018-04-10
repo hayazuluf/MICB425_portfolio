@@ -1,7 +1,7 @@
 ---
 title: "MICB 425 portfolio- ggplot"
 author: "Haya Abuzuluf 32601130"
-date: "version April 08, 2018"
+date: "version April 09, 2018"
 output:
   html_document:
     toc: true
@@ -17,7 +17,7 @@ library(tidyverse)
 ```
 
 ```
-## ── Attaching packages ────────────────────────────────────────────────── tidyverse 1.2.1 ──
+## ── Attaching packages ─────────────────────────────── tidyverse 1.2.1 ──
 ```
 
 ```
@@ -28,7 +28,7 @@ library(tidyverse)
 ```
 
 ```
-## ── Conflicts ───────────────────────────────────────────────────── tidyverse_conflicts() ──
+## ── Conflicts ────────────────────────────────── tidyverse_conflicts() ──
 ## ✖ dplyr::filter() masks stats::filter()
 ## ✖ dplyr::lag()    masks stats::lag()
 ```
@@ -60,11 +60,11 @@ biocLite("phyloseq")
 ```
 ## 
 ## The downloaded binary packages are in
-## 	/var/folders/pt/yrgjc2cx1457q4zqfgp7h18r0000gn/T//RtmpQrJywR/downloaded_packages
+## 	/var/folders/pt/yrgjc2cx1457q4zqfgp7h18r0000gn/T//RtmpIBP1nD/downloaded_packages
 ```
 
 ```
-## Old packages: 'nlme'
+## Old packages: 'cluster', 'Matrix'
 ```
 
 ```r
@@ -119,8 +119,7 @@ ggplot(metadata, aes(x=O2_uM, y=Depth_m, size=OxygenSBE_V)) +
 
 ```r
 ggplot(metadata, aes(x=PO4_uM, y=Depth_m)) +
-  geom_point(shape=24) +
-  geom_point(color="purple")
+  geom_point(shape=17, color="purple")
 ```
 
 ![plot of chunk unnamed-chunk-8](figure/unnamed-chunk-8-1.png)
@@ -220,12 +219,11 @@ plot_bar(physeq_percent, fill="Phylum") +
 #Exercise 4: nutrient concentrations in uM for O2, PO4, SiO2, NO3 and NO2 by depth
 
 ```r
-gather2= gather(metadata, nutrients, uM, NH4_uM, NO3_uM, O2_uM, PO4_uM, SiO2_uM, NO2_uM)
-
-ggplot(gather2, aes(x=Depth_m, y=uM, color="blue")) +
-  facet_wrap(~nutrients, scales="free_y") +
-  geom_point() + geom_line() +
-  theme(legend.position="none")
+gather(metadata, nutrients, uM, NH4_uM, NO3_uM, O2_uM, PO4_uM, SiO2_uM, NO2_uM) %>%
+  ggplot(., aes(x=Depth_m, y=uM, color="blue")) +
+    facet_wrap(~nutrients, scales="free_y") +
+    geom_point() + geom_line() +
+    theme(legend.position="none")
 ```
 
 ![plot of chunk unnamed-chunk-19](figure/unnamed-chunk-19-1.png)
