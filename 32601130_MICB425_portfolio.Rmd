@@ -133,33 +133,131 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
 #### General questions
 * What were the main questions being asked?  
 
-    + Number of prokaryotes?  
+    + The number of prokaryotes and the total amount of their cellular carbon on earth 
     + How do prokaryotes affect the global carbon cycle?  
-    + Genetic diversity and number of mutations?  
-
+    + Genetic diversity and number of mutations?   
+    + Distribution of microbes on Earth
+    + Microbial cellular production rate
 
 * What were the primary methodological approaches used?  
 
     + Referenced papers and estimated numbers based on assumptions
+    + Methodological approaches not explained and detail  
+    + Estimates were the primary methodological approaches used but with a lot of uncertainty.  
 
 * Summarize the main results or findings.  
 
-    + Total carbon of prokaryotes is 60-100% of carbon.  
+    + Total amount of prokaryotic carbon is 60–100% of the estimated total carbon in plants, and inclusion of prokaryotic carbon in global models will almost double estimates of the amount of carbon stored in living organisms.  
     + Cellular production is highest.  
-    + More mutations in oceans than other populations (high turnover   time, more mutations).  
+    + More mutations in oceans than other populations (high turnover time, more mutations). 
+    + The number of prokaryotes and the total amount of their cellular carbon on earth are estimated to be 4–6 × 1030 cells and 350–550 Pg of C (1 Pg = 1015 g), respectively  
+    + Most of the earth’s prokaryotes occur in the open ocean, in soil, and in oceanic and terrestrial subsurfaces, where the numbers of cells are 1.2 × 1029, 2.6 × 1029, 3.5 × 1030, and 0.25–2.5 × 1030, respectively.  
+    + Estimate for the average turnover time of prokaryotes in the subsurface is on the order of 1–2 × 103 yr.  
 
 
 * Do new questions arise from the results?  
 
     + Turnover time at subsurface?  
-    + How is the bacterial population vs archaea population (distinguish   between the two)?  
+    + How is the bacterial population vs archaea population (distinguish between the two)?  
     + Species definition of prokaryotes vs eukaryotes  
+    + Species concept exists for prokaryotes? and how is it defined?  
 
 
 * Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
 
-    + Not enough background information, they just jump into   assumptions and calculations.  
-    + Tables and figures are not summarized or explained in results.  
+    + Not enough background information, they just jump into assumptions and calculations.  
+    + Tables and figures are not summarized or explained in results.
+    + A lot of assuptions and uncertainties, estimates not backed up with methodological approaches.  
+
+### Evidence Worksheet_02 “Life and the Evolution of Earth’s Atmosphere”  
+
+[Kasting *et al* 2002](https://www.ncbi.nlm.nih.gov/pubmed/12004117)
+
+#### Learning objectives: 
+Comment on the emergence of microbial life and the evolution of Earth systems
+    
+    
+* Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
+
+    + 4.6 billion years ago: The Earth forms and is bombarded by meteorites and comets 
+    
+    + 4.2 billion years ago: formation of the moon. Oldest fossils found  
+    
+    + 3.8 billion years ago: Replicating molecules (the precursors of DNA) form.  
+    
+    + 3.75 billion years ago: The Earth's crust solidifies, formation of the oldest rocks Condensation of atmospheric water into oceans
+    
+    + 3.5 billion years ago: Unicellular life evolves. Photosynthetic bacteria begin to release oxygen into the atmosphere  
+    
+    + 3.0 billion years ago: global glaciation, heavy brown gases kept earth warm and heat trapped
+    
+    + 2.7 billion years ago: Evolution of Paranthropus
+    
+    + 2.2 billion years ago: Organisms with mitochondria capable of aerobic respiration appeared  
+    
+    + 2.1 billion years ago: multicellular life evolves. Eukaryotes evolve.
+    
+    + 1.3 billion years ago: First sexually reproducing organisms. 
+    
+    + 550,000 years ago: Evolution of Homo heidelbergensis
+    
+    + 200,000 years ago: Anatomically modern humans appear in Africa
+
+
+* Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
+
+    + Hadean: Formation of Moon's crust. Liquid water oceans existed despite surface temperatures due to atmospheric pressure. Acceleration of dust and gases and frequent collisions of larger planetesimals and stabilization of its core and crust and development of oceans and atmosphere.  
+    
+    + Archean: Earth's crust had cooled enough to allow formation the formation of continents. Atmosphere nearly lacked free oxygen.  
+    
+    + Precambrian: Diveded into Haedean, Archaean, and Proterozoic. Movement of Earth's plates. Stromatolites fossils, three layers of sedimaentary rocks. 
+    
+    + Proterozoic: transition to an oxygented atmosphere, produced snowball Earth. Eukaryotes and multicellular life.
+    
+    + Phanerozoic: animal and plant life existed. Emergence of a number of a number of animal phyla. Techtonic forces caused continents to move and eventually collect into Pangaea.  
+
+
+### Evidence worksheet_03 "The Anthropocene"
+
+[Rockstorm *et al* 2009](https://www.ncbi.nlm.nih.gov/pubmed/19779433)
+
+#### Learning objectives:
+Evaluate human impacts on the ecology and biogeochemistry of Earth Systems
+#### Specific Questions:
+
+What were the main questions being asked?  
+    + What are planetery boundaries that must not be crossed to help prevent human activities from causing unacceptable environmental change?  
+    + What are some approaches to define preconditions for human development?  
+    + What are the biophysical thresholds?  
+    + How many planetry boundaries have been crossed?   
+What were the primary methodological approaches being used?    
+    + Analysis of biogeochemical cycles    
+    + Review of previous findings  
+    + Comparison of earth's systems and changes througout different time periods.  
+    + Estimates of variables and current states  
+Summarize the main results or findings.    
+    + Three of nine interlinked planetary boundaries have been overstepped.   
+    + Safe operating spaces defined   
+    + Biodiversity loss, climate change and human interference with the nitrogen cycle have already been exceeded.    
+Do new questions arise from the results?    
+    + Are these boundaries overstepped due to human activities or part of normal atmospheric transformation as evident througout evolution?    
+    + What kind of interventions or approaches can be taken to reverse these effects and restore safe boundaries?    
+Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+    + Limited literature review     
+    + Not enough background information and explanation of methodological approaches    
+    + Conclusions were only justified based on estimates and assumptions    
+    + Figures and tables were somewhat useful and easy to understand    
+     
+
+As we discussed in class today, to complete evidence worksheet 3 please select one of the following papers to report on:
+
+1) Rockstrom, Nature_2009 .pdf,
+
+2) Science-2016-Waters-.pdf, or
+
+3) Canfield, Science_2010.pdf
+
+
 
 ### Problem set 01
 #### Learning objectives: 
@@ -247,56 +345,6 @@ Budny, JA. 2017. Book review: Aerobiology—The toxicology of airborne pathogens
     + Prokaryote abundance creates an opportunity for frequent mutations and genetic material exchanges that allows adaptation of prokaryotes to different habitats. Adaptation to unique environments will eventually lead to divergence in metabolic potential and ultimately evolution and diversity. 
 Might need to make this more specific based on the equation above.  
 
-### Evidence Worksheet_02 “Life and the Evolution of Earth’s Atmosphere”  
-
-[Kasting *et al* 2002](https://www.ncbi.nlm.nih.gov/pubmed/12004117)
-
-#### Learning objectives: 
-Comment on the emergence of microbial life and the evolution of Earth systems
-    
-    
-* Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
-
-    + 4.6 billion years ago: The Earth forms and is bombarded by meteorites and comets 
-    
-    + 4.2 billion years ago: formation of the moon. Oldest fossils found  
-    
-    + 3.8 billion years ago: Replicating molecules (the precursors of DNA) form.  
-    
-    + 3.75 billion years ago: The Earth's crust solidifies, formation of the oldest rocks Condensation of atmospheric water into oceans
-    
-    + 3.5 billion years ago: Unicellular life evolves. Photosynthetic bacteria begin to release oxygen into the atmosphere  
-    
-    + 3.0 billion years ago: global glaciation, heavy brown gases kept earth warm and heat trapped
-    
-    + 2.7 billion years ago: Evolution of Paranthropus
-    
-    + 2.2 billion years ago: Organisms with mitochondria capable of aerobic respiration appeared  
-    
-    + 2.1 billion years ago: multicellular life evolves. Eukaryotes evolve.
-    
-    + 1.3 billion years ago: First sexually reproducing organisms. 
-    
-    + 550,000 years ago: Evolution of Homo heidelbergensis
-    
-    + 200,000 years ago: Anatomically modern humans appear in Africa
-
-
-* Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
-
-    + Hadean: Formation of Moon's crust. Liquid water oceans existed despite surface temperatures due to atmospheric pressure. Acceleration of dust and gases and frequent collisions of larger planetesimals and stabilization of its core and crust and development of oceans and atmosphere.  
-    
-    + Archean: Earth's crust had cooled enough to allow formation the formation of continents. Atmosphere nearly lacked free oxygen.  
-    
-    + Precambrian: Diveded into Haedean, Archaean, and Proterozoic. Movement of Earth's plates. Stromatolites fossils, three layers of sedimaentary rocks. 
-    
-    + Proterozoic: transition to an oxygented atmosphere, produced snowball Earth. Eukaryotes and multicellular life.
-    
-    + Phanerozoic: animal and plant life existed. Emergence of a number of a number of animal phyla. Techtonic forces caused continents to move and eventually collect into Pangaea.  
-    
-
-
-
 ### Problem set_02 “Microbial Engines”
 
 [Falkowski *et al* 2008](https://www.ncbi.nlm.nih.gov/pubmed/18497287)
@@ -332,59 +380,46 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
     + Horizontal gene transfer is responsible for conserving the genes neccesary for encoding the ezymes involved in the complex reactions necessary for metabolism.
 
 ### Writing assessment_01
-"Microbial life can easily live without us; we, however, cannot survive without the global catalysis and environmental transformations it provides".  
+"Microbial life can easily live without us; we, however, cannot survive without the global catalysis and environmental transformations it provides".   
 
-  Microorganisms play a critical role in sustaining life on Earth (1). There’s a growing interest in understanding the interdependence of humans and their microbial counterparts, especially with current climate change issues and role of humans in disrupting balances in geochemical cycles (2). There’s no question of the microbial importance in developing the current atmospheric conditions that enable us and other organisms to live and thrive on Earth, but are we able to sustain life without their aid for centuries to come? I argue that human life would not be able to persist in the absence of microbes to the same quality and quantity of life that we know of today. My argument will consider the major role microbes play in atmospheric evolution, their ability to facilitate waste management, and the current knowledge gaps in understanding microbial complexity and function. Human life will cease to exist without the fundamental roles of microbes that contribute to both human and environmental function.  
-Microbial communities engineered the planet over geological time to enable humans to be here today  
-  Microbes provide many essential services to Earth through their impacts on ecosystems. They generate oxygen in the atmosphere, recycle nutrients stored in organic matter to an inorganic form and give plant roots access to nutrients in the soil (3). They are extremely powerful on a global scale in that they provide 50% of the total oxygen produced over history, 75% of the nitrogen additions to the atmosphere, 70% of methane production and 50% of carbon dioxide produced back to the atmosphere (4). These microorganisms are drivers of biogeochemical carbon and nitrogen cycles and are unique in the way they process and break down material. They serve as key links in nutritional demands and waste management on Earth. Without these microbial roles, nutritional and waste managements would be greatly affected and a wide range of living species would undergo major disruptions as a result. Long before humans existed, microbes have been around for millions of years. The Earth’s Great Oxygenation Event was around 2.4 billion years ago and it was primarily caused by microbes, specifically cyanobacteria, which eventually led to the emergence of plants, animals, and humans (5). This event also caused the Huronian glaciation which was possibly the longest Snowball Earth period (5). Thus, the microbial resilience to survive harsh conditions throughout Earth’s history also proved their ability in transforming the environment in a way that made it possible for humans to exist. If Earth is subjected to another global atmospheric change, microbes will be of great help to ensure the survival of humans.  
-Microbial waste management    	
-  Waste degradation by microorganisms is of tremendous importance. Aside from natural waste produced by living organisms, human activities for global development purposes throughout the past decades have resulted in release of enormous amounts of industrial, biomedical, hazardous, nuclear and inert wastes (2). Microbes facilitate the chemical process of breaking down organic matter by converting the waste into carbon dioxide, water, energy, water soluble minerals and ammonium (6). The ammonium will be further converted by bacteria through nitrification into nitrites and nitrates, which will be usable by plants (6). Several waste management purposes are fulfilled by this process. Hydrocarbon-consuming microbes, such as Alcanivorax borkumensis, are vital in cleaning oil spills for example (7). Microbes alone facilitate the process that breaks down the oil in deep water. They do this by breaking down the ring structures of the hydrocarbons in the oil by using their unique enzymes and oxygen in the seawater. These oil consuming bacteria are naturally occurring in oceans around the world (7). Other pollutant eating bacteria such as plastic or heavy metal eating bacteria have been exploited by humans to improve or accelerate the biodegradation of pollutants (2). Thus, bacteria are capable of reversing climate change through their natural capabilities to manage and recycle waste materials. 
+Microorganisms play a critical role in sustaining life on Earth (1). There’s a growing interest in understanding the interdependence of humans and their microbial counterparts, especially with current climate change issues and role of humans in disrupting balances of biogeochemical cycles (2). There’s no question of the microbial importance in developing the current atmospheric conditions that enable us and other organisms to live and thrive on Earth, but are we able to sustain life without their aid for centuries to come? I argue that human life would not be able to persist in the absence of microbes to the same quality and quantity of life that we know of today. My argument will consider the dominance of microbes on Earth, the metabolic diversity of microbes which they have evolved over the years, and their potential as biological solution to reverse centuries of environmental damage and evolve to a more sustainable state of living. Human life will cease to exist without the fundamental roles of microbes that contribute to both human and environmental function.  
 
-Knowledge gap in how microbes function: The relationship between microbial community structure and ecosystem processes remain poorly understood  
+Dominance of microbes on Earth: abundance and diversity   
 
-  Humans will not be able to replace microbial functions without completely understanding their activity in climate change models. Microorganisms do not live in isolation in nature, but coexist in highly interactive communities known as consortia (8). They establish relationships that will have an effect on all interacting species and thus it is apparent that they function more as a coherent group that is able to occupy multiple ecological niches (8). Studying microbial consortia will aid in environmental protection or biodegradation and will offer a solution to reversing human activities which have overstepped several planetary boundaries (9). However, knowing some of the beneficial effects of microorganisms will not be sufficient to elucidate their function on a global scale. Stability of human life is highly dependent on the biogeochemical cycles which are determined by microbial processes.  Human-induced environmental changes may soon cause a sixth major extinction and so understanding microbial ecosystems will help predict the likelihood of major disasters (10).   
-In conclusion, I argue that humans will not be able to sustain life on this planet without the global catalysis and environmental transformations that microbes provide. Quality of life on this planet would become increasingly worse to humans, although microbial life would endure. My argument outlined the major role microbes play in atmospheric evolution, their waste management capabilities and the missing gaps in understanding microbial complexity and function. Future work should be aimed at further elucidating complex microbial communities in ecosystems and climate change interactions. Harnessing the power of microbes instead of working towards replacing them will prove to be more powerful at combating disastrous conditions.
+Earth is dominated by microbes who engineered the planet over geological time that enabled humans to exist today. Microbes have been around for nearly 3.5 billion years, long before modern humans emerged about 200,000 years ago (3, 4). They are amongst the oldest life forms and have evolved into diverse communities utilizing metabolic pathways to obtain energy and use different surrounding materials. Only a small fraction of these microbes grow in the laboratory and do not represent the total diversity that exists in nature. This is due to the inability to recreate the natural environment they grow in to the laboratory setting. We know of their existence and diversity through metagenomics sequencing and molecular techniques independent of our ability to culture these organisms (4). Most of the earth’s prokaryotes (domains Archaea and Bacteria) occur in the open ocean, in soil, and in oceanic and terrestrial subsurfaces, where the numbers of cells are 1.2x1029, 2.6x1029, 3.5x 1030, and 0.25–2.5x1030, respectively (5). At all levels of bacterial phylogeny, uncultured clades that do not grow on standard media are playing critical roles in cycling carbon, nitrogen, and other elements, while impacting the surrounding organisms and environment. As an example of their essential roles that enabled our existence, they were responsible for the Earth’s Great Oxygenation Event (6). This event took place nearly 2.4 billion years ago and was primarily caused by cyanobacteria, which eventually led to the emergence of plants, animals, and humans (6). Molecular oxygen was formed as a byproduct of photosynthesis by the oxygenic prokaryotes, changing the environment for single-celled eukaryotes that tolerate oxygen to thrive while anaerobic inhabitants became extinct (7). The great oxygenation event was the point when dissolved iron became insoluble and unable to capture oxygen, therefore enabling its accumulation in the atmosphere (7). Free oxygen has been an important part of the atmosphere ever since. Due to the accumulation of free oxygen, methane was removed to produce carbon dioxide. Methane is a far more efficient greenhouse gas than carbon dioxide, and this methane was keeping the planet warm (7). As levels dropped, the Earth cooled, causing the Huronian glaciation which was possibly the longest Snowball Earth period (7). Thus, microbes have engineered the planet over geological time and have been able to persist throughout those atmospheric changes and harsh conditions. In that process, they have engineered conditions that enabled higher eukaryotic and multicellular organisms including humans to exist today. If Earth is subjected to another global atmospheric change, microbes will be of great help to ensure the survival of humans through their metabolic capabilities and abundance on Earth.  
+ 
+Microbial communities and their metabolic activities are highly diverse  
 
-### Evidence worksheet_03 "The Anthropocene"
+The prokaryotic world presents us with a far larger variety of metabolic types than are found among the eukaryotes (fungi, higher plants, protozoa and animals). Microorganisms are the main agents responsible for biogeochemical transformations of carbon, nitrogen, sulfur, iron, and other elements (1). They provide many essential services to Earth through their impact on ecosystems. They generate oxygen in the atmosphere, recycle nutrients stored in organic matter to an inorganic form and give plant roots access to nutrients in the soil (8). They are extremely powerful on a global scale in that they provide 50% of the total oxygen produced over history, 75% of the nitrogen additions to the atmosphere, 70% of methane production and 50% of carbon dioxide produced back to the atmosphere (6). Therefore, they serve as key links in nutritional demands and waste management on Earth. Without these microbial roles, nutritional and waste managements would be greatly affected and a wide range of living species would undergo major disruptions as a result. The range of substrates used by prokaryotes as carbon sources for growth (assimilatory metabolism) is far greater than in the eukaryotic world. In addition, many groups of prokaryotes perform types of energy generation (dissimilatory reactions) that are altogether unknown among the eukaryotes. Processes such as oxygenic and anoxygenic photosynthesis, aerobic and anaerobic respiration, and chemolithotrophic metabolism together enable the functioning of the biogeochemical cycles of the elements on Earth (7). This is evident in the substantial contribution of diazotrophic cyanobacteria Trichodesmium spp. to the nitrogen influx in marine ecosystems (9). Diazotrophs are microorganisms that are able to grow without external sources of fixed nitrogen (10). Trichodesmium spp. are able to fix nitrogen despite having their N2-reducing enzyme, nitrogenase, rapidly inactivated by O2 (9). They evolved complex mechanisms such as temporal regulation, where they fix nitrogen in the morning and photosynthesize in the afternoon, to protect their enzyme (9, 11). Other cyanobacteria such as the filamentous Anabaena spp. fix nitrogen in their specialized cells known as heterocysts (11). Therefore, the ability of Trichodesmium spp. and Anabaena spp. to optimize their diazotrophic capacity demonstrates that microorganisms are highly evolved biological systems, able to carry out diverse metabolic activities.  
 
-[Rockstorm *et al* 2009](https://www.ncbi.nlm.nih.gov/pubmed/19779433)
+Biological solution: Harnessing the power of microbial metabolism  
 
-#### Learning objectives:
-Evaluate human impacts on the ecology and biogeochemistry of Earth Systems
-#### Specific Questions:
+Now that we understand that microbes are a dominant force on Earth, we can harness their hidden powers and use them as an inspiration to build biological systems that will allow us to live more sustainably. Waste degradation by microorganisms is of tremendous importance. Aside from natural waste produced by living organisms, human activities for global development purposes throughout the past decades have resulted in release of enormous amounts of industrial, biomedical, hazardous, nuclear and inert wastes (2). Microbes facilitate the chemical process of breaking down organic matter by converting the waste into carbon dioxide, water, energy, water soluble minerals and ammonium (9). The ammonium will be further converted by bacteria through nitrification into nitrites and nitrates, which will be usable by plants (9). Several waste management purposes are fulfilled by this process. Each year, several million tons of oil are discharged into the oceans every year originating from human activity (12). Microbes alone facilitate the process that breaks down the oil in deep water. They do this by breaking down the ring structures of the hydrocarbons in the oil by using their diverse enzymes and oxygen in the seawater. These oil consuming bacteria are naturally occurring in oceans around the world (12). Hydrocarbon-consuming microbes, such as Alcanivorax borkumensis, are vital in cleaning oil spills as they become the dominant microbes in oil-polluted waters (12). Its genome is equipped with genes accounting for its wide hydrocarbon substrate range and efficient oil-degrading capabilities. The sequence of its genome will provide the basis for future design of strategies that might mitigate the damages caused by oil spills. Other pollutant eating bacteria such as plastic or heavy metal eating bacteria have been exploited by humans to improve or accelerate the biodegradation of pollutants (13, 14)  Thus, biological solutions may be the best option to reverse climate change through their natural capabilities to manage and recycle waste materials. This can be done by exploiting natural occurring microbes or engineering microbes specific for bioremediation purposes. For example, reclamation of crude oil-contaminated soil by microorganisms is a well-documented process (14). Indigenous microorganisms utilize the total petroleum hydrocarbons (TPH) of crude oil as a source of carbon and energy and break them down to simpler non-toxic compounds. Recombinant strain of Acenitobacter baumanii was found to enhance degradation rates at sites contaminated with crude oil (15). Soil microcosms were designed to study the degradation efficacy for TPH of crude oil by lux-tagged A. baumannii S30 pJES. Bioaugmentation of a TPH-contaminated microcosm with A. baumannii S30 pJES showed that TPH levels were reduced from 89.3 to 53.9 g/kg soil in 90 days (14). The bioaugmentation of microbes with high efficiency for such degradation is thus a proven technique for efficient bioremediation. Genetically modified organisms with increased capacity to degrade and tolerate toxic compounds present in crude oil is an effective measure to reduce oil pollution and alleviate their environmental impact.  
 
-What were the main questions being asked?  
-    + What are planetery boundaries that must not be crossed to help prevent human activities from causing unacceptable environmental change?  
-    + What are some approaches to define preconditions for human development?  
-    + What are the biophysical thresholds?  
-    + How many planetry boundaries have been crossed?   
-What were the primary methodological approaches being used?    
-    + Analysis of biogeochemical cycles    
-    + Review of previous findings  
-    + Comparison of earth's systems and changes througout different time periods.  
-    + Estimates of variables and current states  
-Summarize the main results or findings.    
-    + Three of nine interlinked planetary boundaries have been overstepped.   
-    + Safe operating spaces defined   
-    + Biodiversity loss, climate change and human interference with the nitrogen cycle have already been exceeded.    
-Do new questions arise from the results?    
-    + Are these boundaries overstepped due to human activities or part of normal atmospheric transformation as evident througout evolution?    
-    + What kind of interventions or approaches can be taken to reverse these effects and restore safe boundaries?    
-Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
-    + Limited literature review     
-    + Not enough background information and explanation of methodological approaches    
-    + Conclusions were only justified based on estimates and assumptions    
-    + Figures and tables were somewhat useful and easy to understand    
-     
+Conclusion  
+Microorganisms do not live in isolation in nature, but coexist in highly interactive communities known as consortia (16). They establish relationships that will have an effect on all interacting species and thus it is apparent that they function more as a coherent group that is able to occupy multiple ecological niches (16). Studying microbial consortia will aid in environmental protection or biodegradation and will offer a solution to reversing human activities which have overstepped several planetary boundaries (16). However, knowing some of the beneficial effects of microorganisms will not be sufficient to elucidate their function on a global scale. Stability of human life is highly dependent on the biogeochemical cycles which are determined by microbial processes. Human-induced environmental changes may soon cause a sixth major extinction and so understanding microbial ecosystems will help predict the likelihood of major disasters (17).  
 
-As we discussed in class today, to complete evidence worksheet 3 please select one of the following papers to report on:
+In conclusion, I argue that humans will not be able to sustain life on this planet without the global catalysis and environmental transformations that microbes provide. Quality of life on this planet would become increasingly worse to humans, although microbial life would endure. My argument outlined the major role microbes play in atmospheric evolution, their metabolic diversity and their potential as a biological solution to human-induced environmental damage. Future work should be aimed at further elucidating complex microbial communities in ecosystems and climate change interactions. Harnessing the power of microbes by using their genetic information to engineer novel microbial strains for more efficient biotechnological process will change the way we consume natural materials and reverse centuries of environmental damage that we have caused.  
 
-1) Rockstrom, Nature_2009 .pdf,
+References:  
 
-2) Science-2016-Waters-.pdf, or
-
-3) Canfield, Science_2010.pdf
-
+1. Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science. 320:1034-1039. doi: 10.1126/science.1153213.  
+2. Gilbert, JA, Neufeld, JD. 2014. Life in a World without Microbes. PLoS Biology. 12:e1002020. doi: 10.1371/journal.pbio.1002020.  
+3. Reed, FA. 2012. Modern Human Migrations: The First 200,000 Years, p. 315-326. In Anonymous , 2012th ed., . Springer Vienna, Vienna.  
+4. Ingraham, JL. 2017. Kin: how we came to know our microbe relatives. Harvard University Press, Cambridge, Massachusetts.  
+5. Whitman, WB, Coleman, DC, Wiebe, WJ. 1998. Prokaryotes: The Unseen Majority. Proc. Natl. Acad. Sci. U. S. A. 95:6578-6583. doi: 10.1073/pnas.95.12.6578.  
+6. Kasting, JF, Siefert, JL. 2002. Life and the Evolution of Earth's Atmosphere. Science. 296:1066-1068. doi: 10.1126/science.1071184.  
+7. Schirrmeister, BE, Jurriaan M. de Vos, Antonelli, A, Bagheri, HC, Naturvetenskapliga fakulteten, Faculty of Sciences, Department of Biological and Environmental Sciences, Göteborgs universitet, Institutionen för biologi och miljövetenskap, Gothenburg University. 2013. Evolution of multicellularity coincided with increased diversification of cyanobacteria and the Great Oxidation Event. Proc. Natl. Acad. Sci. U. S. A. 110:1791-1796. doi: 10.1073/pnas.1209927110.  
+8. Lau, JA, Lennon, JT, Heath, KD. 2017. Trees harness the power of microbes to survive climate change. Proceedings of the National Academy of Sciences of the United States. 114:. doi: 10.1073/pnas.1715365114.  
+9. Canfield, DE, Glazer, AN, Falkowski, PG. 2010. The Evolution and Future of Earth's Nitrogen Cycle. Science. 330:192-196. doi: 10.1126/science.1186120.  
+10. Sen, S, Agrawal, C, Mishra, Y, Rai, S, Chatterjee, A, Yadav, S, Singh, S, Rai, LC. 2015. Exploring the membrane proteome of the diazotropic cyanobacterium Anabaena PCC7120 through gel-based proteomics and in silico approaches. Journal of Proteomics. 127:161-168. doi: 10.1016/j.jprot.2015.07.022.  
+11. Herrero, A, Muro-Pastor, AM, Flores, E. 2001. Nitrogen control in cyanobacteria. J. Bacteriol. 183:411-425. doi: 10.1128/JB.183.2.411-425.2001.  
+12. Gertler, C, Pühler, A, Denaro, R, Ferrer, M, Regenhardt, D, Yakimov, MM, Brecht, M, Bekel, T, Rupp, O, Weidner, S, Buhrmester, J, Kaminski, F, Timmis, KN, Meyer, F, Bartels, D, Golyshin, PN, Vorhölter, F, Kaiser, O, dos Santos, Vítor AP Martins, McHardy, AC, Nechitaylo, T, Khachane, AN, Schneiker, S, Chernikova, TN, Goesmann, A, Linke, B, Selbitschka, W, Lang, S, Sabirova, JS, Golyshina, OV. 2006. Genome sequence of the ubiquitous hydrocarbon-degrading marine bacterium Alcanivorax borkumensis. Nat. Biotechnol. 24:997-1004. doi: 10.1038/nbt1232.  
+13. Yang, J, Yang, Y, Wu, W, Zhao, J, Jiang, L. 2014. Evidence of polyethylene biodegradation by bacterial strains from the guts of plastic-eating waxworms. Environ. Sci. Technol. 48:13776.   
+14. Mishra, S, Jyot, J, Kuhad, RC, Lal, B. 2001. Evaluation of Inoculum Addition To Stimulate In Situ Bioremediation of Oily-Sludge-Contaminated Soil. Appl. Environ. Microbiol. 67:1675-1681. doi: 10.1128/AEM.67.4.1675-1681.2001.   
+15. Mishra, S, Sarma, PM, Lal, B. 2004. Crude oil degradation efficiency of a recombinant Acinetobacter baumannii strain and its survival in crude oil-contaminated soil microcosm. FEMS Microbiol. Lett. 235:323-331. doi: 10.1016/j.femsle.2004.05.002.   
+16. Thibaud, T, Anna, P, Yigal, M, S, WN. 2017. Microbial consortia at steady supply. eLife. 6:. doi: 10.7554/eLife.22644.   
+17. Rockström, J, Steffen, W, Noone, K, Scheffer, M, Teknik- och vetenskapshistoria (bytt namn, 20120201), Skolan för arkitektur och samhällsbyggnad, (ABE), KTH, Filosofi och teknikhistoria. 2009. A safe operating space for humanity. Nature. 461:472-475. doi: 10.1038/461472a.  
 
 ### Module 01 references
 
@@ -436,6 +471,49 @@ A safe operating space for humanity. Nature. 461(7263):472-5. [PM19779433](https
 ## Data science Friday  
 
 ## Remapping the body of the world
+
+### Evidence worksheet_04
+
+[Martines * et al * 2007](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838496/)
+#### Learning objectives:
+*Discuss the relationship between microbial community structure and metabolic diversity    
+*Evaluate common methods for studying the diversity of microbial communities  
+*Recognize basic design elements in metagenomic workflows  
+
+### Specific questions:
+
+What were the main questions being asked?  
+    + what are the genetics and biochemistry of PR photosystems?  
+    + genetic tool kit: vector, multicloning site   
+    + Bacterial artificial chromosome: a 130 kb clone from SAR86 contains a proteorhodopsin gene  
+
+What were the primary methodological approaches being used? 
+    + In vivo functional screening of a marine picoplankton large-insert genomic   library for recombinant clones expressing PR photosystems    
+    + Exploited transient increases in vector copy number   
+Summarize the main results or findings.    
+    + Recombinantion Escherichia coli cells    
+    + F plasmid single copy origin of replication and ori5 (inducible multiple copy- destabilizes cell, introduce homologous recombination)    
+    + Took DNA from environment, programmed heterologous E. coli,recovered genes responsible for functional phenotype.    
+    + looked for gene expression for phenotype interested in and determined number of genes necessary.    
+    + build library in inducible system  
+    + Fosmid: use phage packaging, trasduce into E .coli, get higher titers   
+
+Do new questions arise from the results?    
+    + genes evolved to localize, spectral tuning?   
+
+Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+    + Introduction was not adequate, coulld have elaborated further  
+    + What is the global distribution of the PRs and are they conserved in different kingdoms and phyla?  
+    + Methods not discussed in detail   
+    + What about other host systems other than E. coli, will they behave the same?  
+    + Are there other environemental samples that could be collected for gene expression analysis of the bacteriorhodopsin gene?  
+
+
+1) Martinez et al., PNAS 2007.pdf
+
+This classic paper describes functional metagenomic screening using E. coil as a heterologous host system for environmental gene expression targeting the bacteriorhodopsin gene. 
+ 
+
 
 ### Problem set_03 “Metagenomics: Genomic Analysis of Microbial Communities”  
 #### Learning objectives:   
@@ -507,50 +585,9 @@ Specific emphasis should be placed on the process used to find the answer. Be as
     
 [Sharpton *et al* 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059276/)
     
-### Evidence worksheet_04
-
-[Martines * et al * 2007](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838496/)
-#### Learning objectives:
-*Discuss the relationship between microbial community structure and metabolic diversity    
-*Evaluate common methods for studying the diversity of microbial communities  
-*Recognize basic design elements in metagenomic workflows  
-
-### Specific questions:
-
-What were the main questions being asked?  
-    + what are the genetics and biochemistry of PR photosystems?  
-    + genetic tool kit: vector, multicloning site   
-    + Bacterial artificial chromosome: a 130 kb clone from SAR86 contains a proteorhodopsin gene  
-
-What were the primary methodological approaches being used? 
-    + In vivo functional screening of a marine picoplankton large-insert genomic   library for recombinant clones expressing PR photosystems    
-    + Exploited transient increases in vector copy number   
-Summarize the main results or findings.    
-    + Recombinantion Escherichia coli cells    
-    + F plasmid single copy origin of replication and ori5 (inducible multiple copy- destabilizes cell, introduce homologous recombination)    
-    + Took DNA from environment, programmed heterologous E. coli,recovered genes responsible for functional phenotype.    
-    + looked for gene expression for phenotype interested in and determined number of genes necessary.    
-    + build library in inducible system  
-    + Fosmid: use phage packaging, trasduce into E .coli, get higher titers   
-
-Do new questions arise from the results?    
-    + genes evolved to localize, spectral tuning?   
-
-Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
-    + Introduction was not adequate, coulld have elaborated further  
-    + What is the global distribution of the PRs and are they conserved in different kingdoms and phyla?  
-    + Methods not discussed in detail   
-    + What about other host systems other than E. coli, will they behave the same?  
-    + Are there other environemental samples that could be collected for gene expression analysis of the bacteriorhodopsin gene?  
-
-
-1) Martinez et al., PNAS 2007.pdf
-
-This classic paper describes functional metagenomic screening using E. coil as a heterologous host system for environmental gene expression targeting the bacteriorhodopsin gene. 
- 
  
 ### Module 02 references 
-+ Martinez et al., PNAS 2007.pdf
++ Martinez et al., PNAS 2007.pdf [Martines * et al * 2007](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838496/)  
 + [Sharpton *et al* 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059276/)
 + [Lu *et al* 2017](https://academic.oup.com/bioinformatics/article/33/6/791/2525584)
 + [Oulas *et al* 2015](http://journals.sagepub.com/doi/pdf/10.4137/BBI.S12462)    
@@ -558,6 +595,14 @@ This classic paper describes functional metagenomic screening using E. coil as a
 + [Huson *et al* 2012](https://www.ncbi.nlm.nih.gov/pubmed/22399469)    
 
 + [Science 2009](https://books.google.ca/books?id=rLhdW5YzuO4C&pg=RA5-PA225&lpg=RA5-PA225&dq=warehousing+and/or+analyzing+environmental+sequence+information&source=bl&ots=p-e7vp8hMM&sig=-YZG0tNtilCyVY3LVRZQY01U3yk&hl=en&sa=X&ved=0ahUKEwi6kM-r8IHaAhUFHGMKHYDDBx8Q6AEIPzAC#v=onepage&q=warehousing%20and%2For%20analyzing%20environmental%20sequence%20information&f=false)
+ 
++ [Thomas *et al* 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351745/)  
+ 
++ [Solden *et al* 2016](https://www.ncbi.nlm.nih.gov/pubmed/27196505).   
+
++ [Youssef *et al* 2015](https://www.ncbi.nlm.nih.gov/pubmed/26257925).   
+
++ [Rappe *et al* 2003](https://www.ncbi.nlm.nih.gov/pubmed/14527284). 
  
 # Module 03 "Microbial Species Concept"
 
@@ -892,11 +937,56 @@ Based on your reading and discussion notes, explain the meaning and content of t
 
 ##Writing assignment_03
 
+“Discuss the challenges involved in defining a microbial species and how HGT complicates matters, especially in the context of the evolution and phylogenetic distribution of microbial metabolic pathways.  Can you comment on how HGT influences the maintenance of global biogeochemical cycles through time?  Finally, do you think it is necessary to have a clear definition of a microbial species?  Why or why not?”  
+ 
+The number of prokaryotes on earth is estimated to be 4-6 x 1030 cells of mostly uncharacterized Bacteria and Archaea (1). Microbiologists are struggling to summarize their genetic diversity and classify them, which has resulted in debates on methods for defining species, mechanisms that lead to speciation and whether microbial species even exist. Microbial species are currently defined by a practical approach that is based on clear rules for both genotypic and phenotypic properties (2). This approach resulted in the identification of more than 7,031 accepted microbial species, and is being adapted to the genomic era (3). However, this approach faces serious problems due to the cut-off level for pairwise genomic DNA–DNA hybridization levels for distinguishing species. This cut-off level was chosen 30 years ago to match pre-existing species definitions (3). Microbes with 16S ribosomal RNAs (rRNAs) that are ≤98.7% identical are always members of different species, because such strong differences in rRNA correlate with <70% DNA-DNA similarity (4). However, distinct species have been described with 16S rRNAs that are >98.7% identical (4). Most uncultured microbes cannot be assigned to a classical species because we do not know their phenotype. Furthermore, the newly emerging importance of horizontal gene transfer (HGT) has challenged the species concept and raised many questions on how we can further integrate this information (5). In this essay, I argue that microbial species are convenient but arbitrary categories to help identification of organisms and the prediction of their properties. My argument will consider the challenges in defining microbial species, the influence of HGT on the maintenance of global biogeochemical cycles and whether a clear definition of microbial species is necessary.  
+ 
+Challenges involved in defining a microbial species and how HGT complicates matters, especially in the context of the evolution and phylogenetic distribution of microbial metabolic pathways.  
+
+Many challenges arise when establishing a uniformly accepted definition of bacterial species. In part, this is due to the increased levels of bacterial diversity, its complexity in terms of culturability and levels of observed HGT (5). Phylogenetic classification is traditionally based on changes passed from parent to offspring in a pattern of vertical inheritance, ultimately leading to divergent lineages and species (4). These lineages evolve and split independently from each other, where we can construct tree-like schemes to describe evolutionary history of all living organisms. However, this traditional view of evolution is complicated by HGT in which it forces us to recognize that life evolves by fusion as well as divergence of lineages (4). HGT therefore requires us to expand this traditional view when depicting phylogenies based on genetic sequences. Because HGT transmits genes between distantly related organisms, the resulting gene phylogeny may differ significantly from the true organismal phylogeny (5). Therefore, HGT is considered misleading in phylogenetic reconstruction, creating difficulties in recovering organismal descent on a single-gene basis. Each gene can have a unique history that is different than the whole organism. For example, the elongation factor Tu (EF-Tu) is a GTP binding protein playing a central role in protein synthesis. It mediates the recognition and transport of aminoacyl-tRNAs and their positioning to the A site of the ribosome (6). The highly conserved function and ubiquitous distribution render the elongation factor valuable for organismal phylogeny, due to this conservation that facilitates alignment. In contrast, genes that confer antimicrobial resistance are frequently transferred through mechanisms of HGT. Mobile genetic elements that carry virulence and antimicrobial resistance genes are transferred horizontally, mediating evolution of methicillin-resistant Staphylococcus aureus (7).   
+
+The three most recognized mechanisms of HGT in prokaryotes are conjugation, transformation and transduction (8). Conjugation requires the physical contact between a donor and a recipient cell to transfer genetic material via a conjugation pilus (8). Transformation is the uptake of exogenous DNA from the environment (8). Transduction is the delivery of genetic material through phages due to the integration of exogenous host genetic material into a phage genome (8). There are two types of transduction: generalized, in which a random piece of the host DNA is incorporated during cell lysis; and specialized, in which a prophage imprecisely excises itself from a host genome and incorporates some of the flanking host DNAs (8). Therefore, genomics tells us that bacteria often acquire genes from outside the ancestral population by HGT. The best studied example of HGT, are bacteria that have become pathogens by the acquisition of novel plasmids, chromosomal genes or mobile pathogenicity islands (9). For example, Vibrio cholerae includes harmless aquatic strains as well as strains capable of causing epidemics and global pandemics of cholera (10, 11). A chromosomal pathogenicity island was found to be present in epidemic and pandemic strains but absent from nonpathogenic strains (10). The toxigenic V. cholerae strains are generated by infection and lysogenization of a 6.9-kb single-stranded DNA filamentous phage, cholera toxin phage (CTX phage), which carries the cholera toxin gene (11). Non-pathogens also evolve in this fashion, as evident in the study of Prochlorococcus, which are marine cyanobacteria responsible for a large percentage of the photosynthetic production of oxygen. Coleman et al. conclude that "genetic variability between phenotypically distinct strains that differ by less that 1% in 16S ribosomal RNA sequences occurs mostly in genomic islands. Island genes appear to have been acquired in part by phage-mediated lateral gene transfer, and some are differentially expressed under light and nutrient stress" (9).  
+
+ HGT influences the maintenance of global biogeochemical cycles through time   
+
+HGT is the driving force in the evolution and maintenance of metabolic pathways, allowing enzymatic functions that provide a selective advantage to be rapidly incorporated into an organism’s physiology. Although an enormous genetic diversity exists in nature, there is a stable set of core genes which encode the major redox reactions that drive biogeochemical cycles for carbon, oxygen, nitrogen, phosphorus and sulfur (12). HGT facilitated this transfer of genes from one microbe to the other as evident by molecular analysis based on gene order and distribution of metabolic pathways (5). The distribution of genes responsible for the major existing catabolic and anabolic processes may have been distributed across a common global gene pool, before cellular differentiation and vertical genetic transmission evolved (13). Not only individual genes but also entire metabolic pathways central to specific biogeochemical cycles appear to be frequently horizontally transferred in microbes (12). Various environmental selective pressures allow the retention of horizontally transferred genes, thereby facilitating the maintenance of diverse biogeochemical reactions through time (13). Microbes are key vessels that carry the metabolic machines through strong environmental stress. The core machines can survive without disruption as they can be horizontally transferred to other cells in case the individual taxonomic units become extinct. An example of HGT having a role in a global biogeochemical cycle over time is evident in denitrification (14). Denitrification is a facultative respiratory pathway in which nitrite (NO2 ), nitric oxide (NO), and nitrous oxide (N2O) are successively reduced to nitrogen gas (N2), completing the nitrogen cycle (14). The availability of hundreds of genome sequences has revealed that the denitrification pathway is widespread among the prokaryotic phylogeny, including the genomes of ancient bacterial and archaeal lineages (14). This and the discrepancies existent between the phylogeny of denitrification genes and that of the 16S RNA has been used to suggest that this metabolic ability has been spread through several HGT events (14). Thermus thermophilus, an extreme thermophilic bacterium widely spread in natural and man-made thermal environments (15). Isolates of this species are obligate aerobes, but some strains have been isolated that can grow as facultative anaerobes through partial or complete denitrification (15). The denitrification process starts with a heterotrimeric membrane-bound nitrate reductase (Nar) [11,12]. Nitrite produced in the cytoplasm is secreted and reduced to nitric oxide either by heme (NirS)- or by copper (NirK)-containing periplasmic nitrite reductases (14, 15). The highly toxic product NO is immediately reduced to N2O by a membrane-bound reductase depending on either cytochrome c (cNor) or quinones (qNor) as electron donors (14, 15). The nir and nor genes are frequently clustered in the genomes of denitrification strains and expressed in a coordinated form to avoid the separate and potentially toxic accumulation of NO (14, 15). Alvarez et al. concluded that a nitrate respiration conjugative element nor-nir supercluster constitutes a whole denitrification island that can be spread by lateral transfer among T. thermophilus strains (15).
+ 
+Is it necessary to have a clear definition of a microbial species?
+ 
+Defining microbial species aids the study of microbial species, although it is not necessary to have a clear definition of a microbial species. The identification of organisms is a key step in understanding the organism’s biology (2). The power of classification enables prediction of what the organisms is likely to do or capable of doing based on the past experience with similar organisms. The species is one of the most fundamental and recognizable units of biological organization (2). The term is used by both biologists and non-biologists in its original, Aristotle-born meaning to encompass a group of individuals, organisms, object, or thoughts, which share commonality as well as properties that distinguish members of one species from those of other species (16). Beyond scientific interest in defining natural groups that represent organisms with shared evolutionary trajectories, species’ names impact the world in many critical ways. Because members of a species share properties and behaviors, we rely upon their proper identification to generate an appropriate response. This is especially important in the context of microbial species. The response to finding spores to Bacillus subtilis versus those of Bacillus anthracis (the causative agent of anthrax) would be very different (17). Identification of bacterial species plays a central role in medical diagnoses, food safety, public health, biotechnology, and response to bioterrorism (3, 17). Thus species delineation has a practical use, providing microbiologists with a common language to discuss the biology of important groups of microorganisms.
+ 
+To conclude, many challenges arise when attempting to define a microbial species. Mainly, HGT has significantly influenced microbial evolution since the origins of life (5). It helped microbes acquire flexible, mosaic genomes and enabled individual cells to rapidly obtain adaptive phenotypes. HGT is therefore emerging as the driving force in the maintenance of global biogeochemical cycles through time (12, 13). Although HGT is often considered as a disruptive force in reconstructing microbial phylogeny, it can also be a valuable phylogenetic tool. A gene in the net of life is often horizontally transferred to the ancestor of a major lineage. If a gene is retained in the recipient and its descendants, it will constitute a shared derived character and mark the recipient and all descendants as a monophyletic group (5). The ambiguity related to the definition of species will prevail, because it is not possible to formulate “any clear distinction between individual differences and slight varieties; or between more plainly marked varieties and sub-species, and species” (18). Therefore, the species problem is not a concept which will be solved, but rather something that we need to overcome.
+ 
+#References: 
+
+1. Whitman, WB, Coleman, DC, Wiebe, WJ. 1998. Prokaryotes: The Unseen Majority. Proc. Natl. Acad. Sci. U. S. A. 95:6578-6583. doi: 10.1073/pnas.95.12.6578.   
+2. Konstantinidis, KT, Ramette, A, Tiedje, JM. 2006. The bacterial species definition in the genomic era. Philosophical Transactions of the Royal Society B: Biological Sciences. 361:1929-1940. doi: 10.1098/rstb.2006.1920.   
+3. Achtman, M, Wagner, M. 2008. Microbial diversity and the genetic nature of microbial species. Nature Reviews Microbiology. 6:431-440. doi: 10.1038/nrmicro1872.  
+4. Moore, WEC, Stackebrandt, E, Kandler, O, Colwell, RR, Krichevsky, MI, Truper, HG, Murray, RGE, Wayne, LG, Grimont, PAD, Brenner, DJ, Starr, MP, Moore, LH. 1987. Report of the Ad Hoc Committee on Reconciliation of Approaches to Bacterial Systematics. Int. J. Syst. Evol. Microbiol. 37:463-464. doi: 10.1099/00207713-37-4-463.  
+5. Ravenhall, M, Škunca, N, Lassalle, F, Dessimoz, C. 2015. Inferring horizontal gene transfer. PLoS Computational Biology. 11:e1004095. doi: 10.1371/journal.pcbi.1004095.  
+6. Ke, D, Boissinot, M, Huletsky, A, Picard, FJ, Frenette, J, Ouellette, M, Roy, PH, Bergeron, MG. 2000. Evidence for Horizontal Gene Transfer in Evolution of Elongation Factor Tu in Enterococci. J. Bacteriol. 182:6913-6920. doi: 10.1128/JB.182.24.6913-6920.2000.  
+7. Jamrozy, D, Coll, F, Mather, AE, Harris, SR, Harrison, EM, MacGowan, A, Karas, A, Elston, T, Estne Torok, M, Parkhill, J, Peacock, SJ. 2017. Evolution of mobile genetic element composition in an epidemic methicillin-resistant Staphylococcus aureus: temporal changes correlated with frequent loss and gain events. BMC Genomics. 18:. doi: 10.1186/s12864-017-4065-z.  
+8. Burmeister, AR. 2015. Horizontal Gene Transfer. Evolution, Medicine, and Public Health. 2015:193. doi: 10.1093/emph/eov018.  
+9. Coleman, ML, Sullivan, MB, Martiny, AC, Steglich, C, Barry, K, Delong, EF, Chisholm, SW. 2006. Genomic islands and the ecology and evolution of Prochlorococcus. Science (New York, N.Y.). 311:1768-1770. doi: 10.1126/science.1122050.  
+10. David K. R. Karaolis, Johnson, JA, Bailey, CC, Boedeker, EC, Kaper, JB, Reeves, PR. 1998. A Vibrio cholerae Pathogenicity Island Associated with Epidemic and Pandemic Strains. Proc. Natl. Acad. Sci. U. S. A. 95:3134-3139. doi: 10.1073/pnas.95.6.3134.  
+11. Waldor, MK, Mekalanos, JJ. 1996. Lysogenic Conversion by a Filamentous Phage Encoding Cholera Toxin. Science. 272:1910-1914. doi: 10.1126/science.272.5270.1910.  
+12. Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science. 320:1034-1039. doi: 10.1126/science.1153213.  
+13. Brown, JR. 2003. Ancient horizontal gene transfer. Nature Reviews Genetics. 4:121-132. doi: 10.1038/nrg1000.  
+14. Jones, CM, Stres, B, Rosenquist, M, Hallin, S, Medicinska fakulteten, Enheten för klinisk immunologi, Medicinska och farmaceutiska vetenskapsområdet, Institutionen för onkologi, radiologi och klinisk immunologi, Uppsala universitet. 2008. Phylogenetic Analysis of Nitrite, Nitric Oxide, and Nitrous Oxide Respiratory Enzymes Reveal a Complex Evolutionary History for Denitrification. Mol. Biol. Evol. 25:1955-1966. doi: 10.1093/molbev/msn146.  
+15. Alvarez, L, Bricio, C, Gómez, MJ, Berenguer, J. 2011. Lateral Transfer of the Denitrification Pathway Genes among Thermus thermophilus Strains. Appl. Environ. Microbiol. 77:1352-1358. doi: 10.1128/AEM.02048-10.  
+16. Henry, D. 2006. Aristotle on the Mechanism of Inheritance. Journal of the History of Biology. 39:425-455. doi: 10.1007/s10739-005-3058-y.  
+17. Goel, AK. 2015. Anthrax: A disease of biowarfare and public health importance. World Journal of Clinical Cases. 3:20.  
+18. Darwin, C, Beer, G. 2008. On the origin of species. Oxford University Press, New York; Oxford, UK.  
+
+
+
 ### Module 03 references 
 
 + Welch RA, Burland V, Plunkett G 3rd, Redford P, Roesch P, Rasko D, Buckles EL, Liou SR, Boutin A, Hackett J, Stroud D, Mayhew GF, Rose DJ, Zhou S, Schwartz DC, Perna NT, Mobley HL, Donnenberg MS, Blattner FR. 2002. Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli. Proc Natl Acad Sci U S A. 99(26):17020-4. [PM12471157](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC139262/)
 
++ David K. R. Karaolis, Johnson, JA, Bailey, CC, Boedeker, EC, Kaper, JB, Reeves, PR. 1998. A Vibrio cholerae Pathogenicity Island Associated with Epidemic and Pandemic Strains. Proc. Natl. Acad. Sci. U. S. A. 95:3134-3139. [PMC19707] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC19707/)  
 
++
 
 ## Module 04 Portfolio Content
 ### Project 2
