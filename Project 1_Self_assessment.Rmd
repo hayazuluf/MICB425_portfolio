@@ -11,39 +11,39 @@ Include **separate** completed versions of this document for Project 1 **and** P
 ### Writing
 
 ### Editing
-
+Edited the final version
 
 ## Introduction
 ### Literature research
-
+Contributed to the references and formatting
 ### Writing
 
 ### Editing
-
+Edited the final version
 
 ## Methods
 ### Writing
-+ Worte the whole section 
+Worte the whole section 
 ### Editing
-+ Did most of the editing 
+Edited the final version and made corrections based on feedback recieved for the project
 
 ## Results
 ### Analysis 
-+ Contributed to the analysis of the figures and meaning of the data 
+Analyzed the data and interpreted the results 
 ### Figures
-+ Wrote the code to answer the second question regarding the significance of the abundance change with depth and oxygen concentration.
-+ Employed the linear model for the statistical analysis
-+ troubleshot code for multiple figures 
-+ Explained code to teammates and added comments above code to clarify usage.  
++ Wrote the code to answer the second question regarding the significance of the abundance change with depth and oxygen concentration.  
++ Employed the linear regression model for the statistical analysis in R.
++ Troubleshot code for multiple figures.  
++ Explained code to teammates and added comments above code to clarify purpose.   
 ### Writing
-
+Contributed to Figure legends  
 ### Editing
-
+Edited the whole section and made corrections based on feedback recieved for the project
 
 ## Discussion
 ### Literature research
-
+Contributed to references and formatting
 ### Writing
 
 ### Editing
-
+Edited the whole section

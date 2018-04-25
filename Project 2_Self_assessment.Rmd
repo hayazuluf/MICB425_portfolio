@@ -9,38 +9,41 @@ Include **separate** completed versions of this document for Project 1 **and** P
 
 ## Abstract
 ### Writing
+Wrote the whole abstract
 
 ### Editing
-
+Edited section based on feedback 
 
 ## Introduction
 ### Literature research
-
+Contributed to references and formatting
 ### Writing
-
+Added the nitrogen cycle figure and expanded on the explanation of denitrification cycle 
 ### Editing
+Edited entire section for final version and organized citations
 
 
 ## Methods
-### Writing
+### Writing  
+Wrote the entire section.
 
 ### Editing
-
+Edited the final version 
 
 ## Results
 ### Anaysis 
-
+Wrote part of the script for TreeSAPP. Troubleshot code in R to generate figures and analyzed the final plots.  
 ### Figures
-
+Interpreted results for all the plots, helped generate phylogenetic trees and orienting iTOL. 
 ### Writing
-
+Wrote Figure 1 and 2 legends
 ### Editing
-
+Edited the whole section 
 
 ## Discussion
 ### Literature research
-
+Contributed to references and formatting
 ### Writing
-
+ 
 ### Editing
-
+Edited the whole section and organized figure numbers.

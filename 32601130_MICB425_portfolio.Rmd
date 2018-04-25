@@ -1,10 +1,13 @@
 ---
-title: "MICB 425 portfolio- Microbial Ecological Genomics: From Genomes to Biomes, Spring 2018"
+title: 'MICB 425 portfolio- Microbial Ecological Genomics: From Genomes to Biomes,
+  Spring 2018'
 author: "Haya Abuzuluf 32601130"
 date: "version `r format(Sys.time(), '%B %d, %Y')`"
 output:
   html_document:
-    toc: true
+    toc: yes
+  pdf_document:
+    toc: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -587,22 +590,27 @@ Specific emphasis should be placed on the process used to find the answer. Be as
     
  
 ### Module 02 references 
-+ Martinez et al., PNAS 2007.pdf [Martines * et al * 2007](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838496/)  
-+ [Sharpton *et al* 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059276/)
-+ [Lu *et al* 2017](https://academic.oup.com/bioinformatics/article/33/6/791/2525584)
-+ [Oulas *et al* 2015](http://journals.sagepub.com/doi/pdf/10.4137/BBI.S12462)    
++ Martinez, A. S. Bradley,† J. R. Waldbauer, R. E. Summons, E. F. DeLong. 2007. Proteorhodopsin photosystem gene expression enables photophosphorylation in a heterologous host. Proc Natl Acad Sci U S A. 104(13): 5590–5595. [Martines * et al * 2007](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838496/)   
+
++ Thomas J. Sharpton. 2014. An introduction to the analysis of shotgun metagenomic data. Front Plant Sci. 5: 209. [Sharpton *et al* 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059276/)  
+
++ Yang Young Lu  Ting Chen  Jed A. Fuhrman  Fengzhu Sun. 2017. COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end read LinkAge. Bioinformatics. 33(6) 791–798. [Lu *et al* 2017](https://academic.oup.com/bioinformatics/article/33/6/791/2525584)  
+
++ Anastasis Oulas, Christina Pavloudi, Paraskevi Polymenakou, Georgios A. Pavlopoulos,
+Nikolas Papanikolaou, Georgios Kotoulas, Christos Arvanitidis and Ioannis Iliopoulos. 2015. Metagenomics: Tools and Insights for Analyzing
+Next-Generation Sequencing Data Derived from
+Biodiversity Studies. Bioinformatics and Biology Insights. 9 75–88 [Oulas *et al* 2015](http://journals.sagepub.com/doi/pdf/10.4137/BBI.S12462)      
     
-+ [Huson *et al* 2012](https://www.ncbi.nlm.nih.gov/pubmed/22399469)    
-
-+ [Science 2009](https://books.google.ca/books?id=rLhdW5YzuO4C&pg=RA5-PA225&lpg=RA5-PA225&dq=warehousing+and/or+analyzing+environmental+sequence+information&source=bl&ots=p-e7vp8hMM&sig=-YZG0tNtilCyVY3LVRZQY01U3yk&hl=en&sa=X&ved=0ahUKEwi6kM-r8IHaAhUFHGMKHYDDBx8Q6AEIPzAC#v=onepage&q=warehousing%20and%2For%20analyzing%20environmental%20sequence%20information&f=false)
++ Huson DH, Mitra S. 2012. Introduction to the analysis of environmental sequences: metagenomics with MEGAN. Methods Mol Biol. 856:415-29. [Huson *et al* 2012](https://www.ncbi.nlm.nih.gov/pubmed/22399469)     
  
-+ [Thomas *et al* 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351745/)  
++ Torsten Thomas, Jack Gilbert, Folker Meyer. 2012. Metagenomics - a guide from sampling to data analysis. Microb Inform Exp. 2: 3. [Thomas *et al* 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351745/)   
  
-+ [Solden *et al* 2016](https://www.ncbi.nlm.nih.gov/pubmed/27196505).   
++ Solden L, Lloyd K, Wrighton K. 2016. The bright side of microbial dark matter: lessons learned from the uncultivated majority. Curr Opin Microbiol. 31:217-226. [Solden *et al* 2016](https://www.ncbi.nlm.nih.gov/pubmed/27196505).    
 
-+ [Youssef *et al* 2015](https://www.ncbi.nlm.nih.gov/pubmed/26257925).   
++ Youssef NH, Couger MB, McCully AL, Criado AE, Elshahed MS. 2015. Assessing the global phylum level diversity within the bacterial domain: A review. J Adv Res. 6(3):269-82.
+[Youssef *et al* 2015](https://www.ncbi.nlm.nih.gov/pubmed/26257925).    
 
-+ [Rappe *et al* 2003](https://www.ncbi.nlm.nih.gov/pubmed/14527284). 
++ Rappé MS, Giovannoni SJ. 2003. The uncultured microbial majority. Annu Rev Microbiol. 57:369-94. [Rappe *et al* 2003](https://www.ncbi.nlm.nih.gov/pubmed/14527284).  
  
 # Module 03 "Microbial Species Concept"
 
@@ -957,7 +965,7 @@ Defining microbial species aids the study of microbial species, although it is n
  
 To conclude, many challenges arise when attempting to define a microbial species. Mainly, HGT has significantly influenced microbial evolution since the origins of life (5). It helped microbes acquire flexible, mosaic genomes and enabled individual cells to rapidly obtain adaptive phenotypes. HGT is therefore emerging as the driving force in the maintenance of global biogeochemical cycles through time (12, 13). Although HGT is often considered as a disruptive force in reconstructing microbial phylogeny, it can also be a valuable phylogenetic tool. A gene in the net of life is often horizontally transferred to the ancestor of a major lineage. If a gene is retained in the recipient and its descendants, it will constitute a shared derived character and mark the recipient and all descendants as a monophyletic group (5). The ambiguity related to the definition of species will prevail, because it is not possible to formulate “any clear distinction between individual differences and slight varieties; or between more plainly marked varieties and sub-species, and species” (18). Therefore, the species problem is not a concept which will be solved, but rather something that we need to overcome.
  
-#References: 
+###References: 
 
 1. Whitman, WB, Coleman, DC, Wiebe, WJ. 1998. Prokaryotes: The Unseen Majority. Proc. Natl. Acad. Sci. U. S. A. 95:6578-6583. doi: 10.1073/pnas.95.12.6578.   
 2. Konstantinidis, KT, Ramette, A, Tiedje, JM. 2006. The bacterial species definition in the genomic era. Philosophical Transactions of the Royal Society B: Biological Sciences. 361:1929-1940. doi: 10.1098/rstb.2006.1920.   
@@ -980,15 +988,22 @@ To conclude, many challenges arise when attempting to define a microbial species
 
 
 
-### Module 03 references 
+## Module 03 references 
 
-+ Welch RA, Burland V, Plunkett G 3rd, Redford P, Roesch P, Rasko D, Buckles EL, Liou SR, Boutin A, Hackett J, Stroud D, Mayhew GF, Rose DJ, Zhou S, Schwartz DC, Perna NT, Mobley HL, Donnenberg MS, Blattner FR. 2002. Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli. Proc Natl Acad Sci U S A. 99(26):17020-4. [PM12471157](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC139262/)
++ Welch RA, Burland V, Plunkett G 3rd, Redford P, Roesch P, Rasko D, Buckles EL, Liou SR, Boutin A, Hackett J, Stroud D, Mayhew GF, Rose DJ, Zhou S, Schwartz DC, Perna NT, Mobley HL, Donnenberg MS, Blattner FR. 2002. Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli. Proc Natl Acad Sci U S A. 99(26):17020-4. [PM12471157](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC139262/)  
 
-+ David K. R. Karaolis, Johnson, JA, Bailey, CC, Boedeker, EC, Kaper, JB, Reeves, PR. 1998. A Vibrio cholerae Pathogenicity Island Associated with Epidemic and Pandemic Strains. Proc. Natl. Acad. Sci. U. S. A. 95:3134-3139. [PMC19707] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC19707/)  
++ David K. R. Karaolis, Johnson, JA, Bailey, CC, Boedeker, EC, Kaper, JB, Reeves, PR. 1998. A Vibrio cholerae Pathogenicity Island Associated with Epidemic and Pandemic Strains. Proc. Natl. Acad. Sci. U. S. A. 95:3134-3139. [PMC19707](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC19707/)   
 
-+
++ Callahan BJ, McMurdie PJ, Holmes SP. 2017. Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. ISME J. 11(12):2639-2643. [PMC5702726](https://www.ncbi.nlm.nih.gov/pubmed/28731476)  
 
-## Module 04 Portfolio Content
++ Gaudet AD, Ramer LM, Nakonechny J, Cragg JJ, Ramer MS. 2010. Small-Group Learning in an Upper-Level University Biology Class Enhances Academic Performance and Student Attitudes Toward Group Work. PLoS ONE 5(12): e15821. [PMC3012112](https://www.ncbi.nlm.nih.gov/pubmed/21209910)  
++ Steven J. Hallam, Mónica Torres-Beltrán, Alyse K. Hawley. 2017. Monitoring microbial responses to ocean deoxygenation in a model oxygen minimum zone. Scientific Data. DOI: 10.1038/sdata.2017.158. [4:170158](https://www.nature.com/articles/sdata2017158)  
+
++ Mónica Torres-Beltrán, Alyse K. Hawley, David Capelle, Elena Zaikova, David A. Walsh, Andreas Mueller, Melanie Scofield, Chris Payne, Larysa Pakhomova, Sam Kheirandish, Jan Finke, Maya Bhatia, Olena Shevchuk, Esther A. Gies, Diane Fairley, Céline Michiels, Curtis A. Suttle, Frank Whitney, Sean A. Crowe, Philippe D. Tortell & Steven J. Hallam. 2017. A compendium of geochemical information from the Saanich Inlet water column. Scientific Data. doi:10.1038/sdata.2017.159 [170159](https://www.nature.com/articles/sdata2017159)   
+
++ Mitchell L. Sogin, Hilary G. Morrison, Julie A. Huber, David Mark Welch, Susan M. Huse, Phillip R. Neal, Jesus M. Arrieta and Gerhard J. Herndl. 2006. Microbial diversity in the deep sea and the underexplored “rare biosphere”. PNAS. 103 (32) 12115-12120. [12115](http://www.pnas.org/content/103/32/12115)
+
+# Module 04 Portfolio Content
 ### Project 2
 
 * CATME final group assessment
