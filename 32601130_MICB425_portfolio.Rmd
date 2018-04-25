@@ -382,7 +382,7 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
 * On what basis do the authors consider microbes the guardians of metabolism?  
     + Horizontal gene transfer is responsible for conserving the genes neccesary for encoding the ezymes involved in the complex reactions necessary for metabolism.
 
-### Writing assessment_01  
+### Writing assignment_01  
 
 "Microbial life can easily live without us; we, however, cannot survive without the global catalysis and environmental transformations it provides".   
 
@@ -406,7 +406,7 @@ Conclusion
 
   In conclusion, I argue that humans will not be able to sustain life on this planet without the global catalysis and environmental transformations that microbes provide. Quality of life on this planet would become increasingly worse to humans, although microbial life would endure. My argument outlined the major role microbes play in atmospheric evolution, their metabolic diversity and their potential as a biological solution to human-induced environmental damage. Future work should be aimed at further elucidating complex microbial communities in ecosystems and climate change interactions. Harnessing the power of microbes by using their genetic information to engineer novel microbial strains for more efficient biotechnological process will change the way we consume natural materials and reverse centuries of environmental damage that we have caused.  
 
-###Writing assignment 1 References: 
+#### Writing assignment #1 references:
 
 1. Falkowski, PG, Fenchel, T, Delong, EF. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science. 320:1034-1039. [link](https://www.ncbi.nlm.nih.gov/pubmed/18497287)  
 2. Gilbert, JA, Neufeld, JD. 2014. Life in a World without Microbes. PLoS Biology. 12:e1002020. [link](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002020)  
@@ -486,30 +486,30 @@ A safe operating space for humanity. Nature. 461(7263):472-5. [PM19779433](https
 ### Specific questions:
 
 What were the main questions being asked?  
-    + what are the genetics and biochemistry of PR photosystems?  
-    + genetic tool kit: vector, multicloning site   
-    + Bacterial artificial chromosome: a 130 kb clone from SAR86 contains a proteorhodopsin gene  
+    - what are the genetics and biochemistry of PR photosystems?  
+    - genetic tool kit: vector, multicloning site   
+    - Bacterial artificial chromosome: a 130 kb clone from SAR86 contains a proteorhodopsin gene  
 
 What were the primary methodological approaches being used? 
-    + In vivo functional screening of a marine picoplankton large-insert genomic   library for recombinant clones expressing PR photosystems    
-    + Exploited transient increases in vector copy number   
+    - In vivo functional screening of a marine picoplankton large-insert genomic   library for recombinant clones expressing PR photosystems    
+    - Exploited transient increases in vector copy number   
 Summarize the main results or findings.    
-    + Recombinantion Escherichia coli cells    
-    + F plasmid single copy origin of replication and ori5 (inducible multiple copy- destabilizes cell, introduce homologous recombination)    
-    + Took DNA from environment, programmed heterologous E. coli,recovered genes responsible for functional phenotype.    
-    + looked for gene expression for phenotype interested in and determined number of genes necessary.    
-    + build library in inducible system  
-    + Fosmid: use phage packaging, trasduce into E .coli, get higher titers   
+    - Recombinantion Escherichia coli cells    
+    - F plasmid single copy origin of replication and ori5 (inducible multiple copy- destabilizes cell, introduce homologous recombination)    
+    - Took DNA from environment, programmed heterologous E. coli,recovered genes responsible for functional phenotype.    
+    - looked for gene expression for phenotype interested in and determined number of genes necessary.    
+    - build library in inducible system  
+    - Fosmid: use phage packaging, trasduce into E .coli, get higher titers   
 
 Do new questions arise from the results?    
-    + genes evolved to localize, spectral tuning?   
+    - genes evolved to localize, spectral tuning?   
 
 Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
-    + Introduction was not adequate, coulld have elaborated further  
-    + What is the global distribution of the PRs and are they conserved in different kingdoms and phyla?  
-    + Methods not discussed in detail   
-    + What about other host systems other than E. coli, will they behave the same?  
-    + Are there other environemental samples that could be collected for gene expression analysis of the bacteriorhodopsin gene?  
+    - Introduction was not adequate, coulld have elaborated further  
+    - What is the global distribution of the PRs and are they conserved in different kingdoms and phyla?  
+    - Methods not discussed in detail   
+    - What about other host systems other than E. coli, will they behave the same?  
+    - Are there other environemental samples that could be collected for gene expression analysis of the bacteriorhodopsin gene?  
 
 
 1) Martinez et al., PNAS 2007.pdf
@@ -966,7 +966,7 @@ Is it necessary to have a clear definition of a microbial species?
  
   To conclude, many challenges arise when attempting to define a microbial species. Mainly, HGT has significantly influenced microbial evolution since the origins of life (5). It helped microbes acquire flexible, mosaic genomes and enabled individual cells to rapidly obtain adaptive phenotypes. HGT is therefore emerging as the driving force in the maintenance of global biogeochemical cycles through time (12, 13). Although HGT is often considered as a disruptive force in reconstructing microbial phylogeny, it can also be a valuable phylogenetic tool. A gene in the net of life is often horizontally transferred to the ancestor of a major lineage. If a gene is retained in the recipient and its descendants, it will constitute a shared derived character and mark the recipient and all descendants as a monophyletic group (5). The ambiguity related to the definition of species will prevail, because it is not possible to formulate “any clear distinction between individual differences and slight varieties; or between more plainly marked varieties and sub-species, and species” (18). Therefore, the species problem is not a concept which will be solved, but rather something that we need to overcome.
  
-###Writing assignment 3 References: 
+### Writing assignment #3 references: 
 
 1. Whitman, WB, Coleman, DC, Wiebe, WJ. 1998. Prokaryotes: The Unseen Majority. Proc. Natl. Acad. Sci. U. S. A. 95:6578-6583. [link](http://www.pnas.org/content/95/12/6578)    
 2. Konstantinidis, KT, Ramette, A, Tiedje, JM. 2006. The bacterial species definition in the genomic era. Philosophical Transactions of the Royal Society B: Biological Sciences. 361:1929-1940. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1764935/)  
