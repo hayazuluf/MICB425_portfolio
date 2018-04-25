@@ -32,7 +32,7 @@ Edited the final version
 
 ## Results
 ### Anaysis 
-Wrote part of the script for TreeSAPP. Troubleshot code in R to generate figures and analyzed the final plots.  
+Wrote part of the script for TreeSAPP. Troubleshot code in R to generate figures 2-5 and analyzed the final plots.  
 ### Figures
 Interpreted results for all the plots, helped generate phylogenetic trees and orienting iTOL. 
 ### Writing

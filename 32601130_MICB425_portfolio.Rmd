@@ -631,7 +631,7 @@ Biodiversity Studies. Bioinformatics and Biology Insights. 9 75–88 [Oulas *et 
     
 
 ## Data science Friday  
-### Problem set_04 “Fine-scale phylogenetic architecture”
+## Problem set_04 “Fine-scale phylogenetic architecture”
 #### Learning objectives: 
 
 * Gain experience estimating diversity within a hypothetical microbial community
@@ -865,7 +865,7 @@ If you are stuck on some of these final questions, reading the [Kunin et al. 201
     + Use curated databases   
     + consistent processing of each sample, DNA   
   
-### Project 1
+## Project 1
 ** Refer to separate rmd and html files uploaded to github
 
 * CATME account setup and survey
@@ -879,7 +879,7 @@ If you are stuck on some of these final questions, reading the [Kunin et al. 201
     + Participation (20%):
     
     
-### Evidence worksheet_05 "Extensive mosiac structure"
+## Evidence worksheet_05 "Extensive mosiac structure"
 [Whelch *et al* 2002](https://www.ncbi.nlm.nih.gov/pubmed/12471157)
 
 #### Learning objectives:
